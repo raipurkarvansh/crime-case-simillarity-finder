@@ -1,0 +1,1001 @@
+case_id,summary,location,date_reported,lat,lon,status,closed_date,time_to_solve,case_status
+1,Mary was robbed at gunpoint near Tapia Parkways.,Pune,2024-11-18,18.5204,73.8567,Open,,189,Open
+2,Keith had their phone snatched on Cooper Spring.,Bangalore,2024-12-29,12.9716,77.5946,Closed,2025-02-14,47,Closed
+3,Dean was attacked with a knife at Swanson Plaza.,Jaipur,2024-10-25,26.9124,75.7873,Closed,2024-11-06,12,Closed
+4,John saw a group vandalizing vehicles near Ernest Crossing.,Pune,2024-06-04,18.5204,73.8567,Closed,2024-08-05,62,Closed
+5,Alan faced an assault incident around Carney Forge.,Pune,2024-10-30,18.5204,73.8567,Open,,208,Open
+6,Samuel was robbed at gunpoint near Scott Courts.,Mumbai,2024-11-24,19.076,72.8777,Open,,183,Open
+7,April reported a theft in Scott Island.,Delhi,2024-11-09,28.6139,77.209,Open,,198,Open
+8,Allison had their phone snatched on James Fort.,Jaipur,2025-03-21,26.9124,75.7873,Closed,2025-06-09,80,Closed
+9,Christopher faced an assault incident around Johnson Villages.,Kolkata,2024-05-28,22.5726,88.3639,Closed,2024-08-24,88,Closed
+10,Kathleen saw a group vandalizing vehicles near Barton Hollow.,Delhi,2025-03-28,28.6139,77.209,Closed,2025-06-19,83,Closed
+11,Sara saw a group vandalizing vehicles near Harry Summit.,Jaipur,2024-06-14,26.9124,75.7873,Open,,346,Open
+12,Angela had their phone snatched on Molina Well.,Mumbai,2025-04-12,19.076,72.8777,Closed,2025-04-20,8,Closed
+13,Mark faced an assault incident around Whitaker Inlet.,Ahmedabad,2025-04-10,23.0225,72.5714,Closed,2025-05-01,21,Closed
+14,Thomas was robbed at gunpoint near Hendrix Mill.,Bangalore,2024-06-17,12.9716,77.5946,Open,,343,Open
+15,Roger was duped by a fake agent in Cruz Estates.,Nagpur,2024-06-05,21.1458,79.0882,Open,,355,Open
+16,Richard reported cyber fraud involving Lee Pine.,Hyderabad,2024-08-24,17.385,78.4867,Open,,275,Open
+17,Stephen had their phone snatched on Victoria Lodge.,Nagpur,2024-08-14,21.1458,79.0882,Open,,285,Open
+18,David reported a theft in Richardson Turnpike.,Hyderabad,2024-09-02,17.385,78.4867,Closed,2024-11-22,81,Closed
+19,Joseph was duped by a fake agent in Cunningham Street.,Pune,2025-01-11,18.5204,73.8567,Open,,135,Open
+20,Rachael experienced a burglary at Jon Village.,Pune,2024-08-16,18.5204,73.8567,Open,,283,Open
+21,Julia faced an assault incident around Daniel Avenue.,Hyderabad,2024-05-07,17.385,78.4867,Closed,2024-08-02,87,Closed
+22,Kathryn was robbed at gunpoint near Rhonda Landing.,Bangalore,2025-03-03,12.9716,77.5946,Open,,84,Open
+23,Christopher saw a group vandalizing vehicles near Antonio Streets.,Ahmedabad,2025-04-19,23.0225,72.5714,Open,,37,Open
+24,Ian was duped by a fake agent in Alvarez Camp.,Pune,2025-04-19,18.5204,73.8567,Open,,37,Open
+25,Patrick saw a group vandalizing vehicles near Olsen Bridge.,Pune,2025-03-12,18.5204,73.8567,Open,,75,Open
+26,Brittney faced an assault incident around Adams Mission.,Bangalore,2024-05-22,12.9716,77.5946,Closed,2024-08-10,80,Closed
+27,David faced an assault incident around Parker Brooks.,Hyderabad,2024-09-06,17.385,78.4867,Open,,262,Open
+28,Sean reported a theft in Adams Overpass.,Jaipur,2024-06-13,26.9124,75.7873,Closed,2024-08-22,70,Closed
+29,Susan had their phone snatched on Johnson Islands.,Delhi,2024-12-17,28.6139,77.209,Closed,2025-02-27,72,Closed
+30,Melissa reported a theft in Smith Throughway.,Bangalore,2024-09-27,12.9716,77.5946,Open,,241,Open
+31,Stephanie reported a theft in Gregory Cliff.,Jaipur,2025-03-01,26.9124,75.7873,Closed,2025-03-26,25,Closed
+32,Kyle reported cyber fraud involving Timothy Crossroad.,Mumbai,2024-07-11,19.076,72.8777,Open,,319,Open
+33,Jennifer experienced a burglary at Rodriguez Rapids.,Ahmedabad,2024-11-29,23.0225,72.5714,Open,,178,Open
+34,Brian experienced a burglary at Cook Glen.,Nagpur,2025-03-24,21.1458,79.0882,Closed,2025-06-14,82,Closed
+35,Linda had their phone snatched on Todd Viaduct.,Hyderabad,2024-05-07,17.385,78.4867,Closed,2024-08-04,89,Closed
+36,Richard reported a theft in Collins Summit.,Bangalore,2024-06-30,12.9716,77.5946,Closed,2024-07-12,12,Closed
+37,Kendra was attacked with a knife at Adams Harbor.,Chennai,2024-06-16,13.0827,80.2707,Open,,344,Open
+38,Joseph had their phone snatched on Washington Junction.,Kolkata,2025-04-21,22.5726,88.3639,Open,,35,Open
+39,Cesar suffered a wallet theft at Kimberly Island.,Nagpur,2024-11-25,21.1458,79.0882,Closed,2024-12-10,15,Closed
+40,Michael reported cyber fraud involving Marshall Circles.,Mumbai,2024-11-27,19.076,72.8777,Open,,180,Open
+41,Christopher had their phone snatched on Michael Run.,Kolkata,2024-07-02,22.5726,88.3639,Open,,328,Open
+42,Angela was robbed at gunpoint near Molly Parkways.,Hyderabad,2025-04-10,17.385,78.4867,Open,,46,Open
+43,Susan was robbed at gunpoint near Stacey Forge.,Jaipur,2025-01-05,26.9124,75.7873,Open,,141,Open
+44,Deborah was duped by a fake agent in Theresa Creek.,Hyderabad,2024-12-15,17.385,78.4867,Closed,2025-02-12,59,Closed
+45,Connie reported a theft in Gray Canyon.,Bangalore,2024-12-09,12.9716,77.5946,Open,,168,Open
+46,Frank faced an assault incident around Tracy Extension.,Jaipur,2024-07-17,26.9124,75.7873,Closed,2024-08-12,26,Closed
+47,Patricia had their phone snatched on Vanessa Stream.,Hyderabad,2024-05-09,17.385,78.4867,Open,,382,Open
+48,Devin was duped by a fake agent in Graham Port.,Ahmedabad,2024-12-14,23.0225,72.5714,Closed,2025-01-09,26,Closed
+49,Cindy was attacked with a knife at Joshua Mountain.,Ahmedabad,2025-04-12,23.0225,72.5714,Closed,2025-05-29,47,Closed
+50,Tina was attacked with a knife at Harrington Extensions.,Bangalore,2025-03-04,12.9716,77.5946,Open,,83,Open
+51,Joann saw a group vandalizing vehicles near Dominguez Ridges.,Jaipur,2024-11-15,26.9124,75.7873,Closed,2024-12-17,32,Closed
+52,Angela reported cyber fraud involving Robert Key.,Kolkata,2024-05-20,22.5726,88.3639,Closed,2024-05-30,10,Closed
+53,Marisa was duped by a fake agent in Myers Summit.,Chennai,2024-05-13,13.0827,80.2707,Closed,2024-05-29,16,Closed
+54,Daniel was duped by a fake agent in Knight Land.,Chennai,2025-01-01,13.0827,80.2707,Closed,2025-03-13,71,Closed
+55,Craig had their phone snatched on John Pine.,Hyderabad,2024-06-25,17.385,78.4867,Closed,2024-07-12,17,Closed
+56,Tina saw a group vandalizing vehicles near Edward Gateway.,Nagpur,2024-12-01,21.1458,79.0882,Closed,2024-12-24,23,Closed
+57,Laura reported a theft in Chavez Mills.,Ahmedabad,2024-07-13,23.0225,72.5714,Open,,317,Open
+58,Mark reported a theft in Kevin Ville.,Delhi,2025-04-25,28.6139,77.209,Open,,31,Open
+59,Timothy was attacked with a knife at Bonnie Union.,Nagpur,2024-11-24,21.1458,79.0882,Open,,183,Open
+60,Tracey faced an assault incident around Baldwin Crescent.,Mumbai,2024-07-06,19.076,72.8777,Open,,324,Open
+61,Craig was duped by a fake agent in Jennifer Port.,Pune,2024-12-19,18.5204,73.8567,Open,,158,Open
+62,Melissa faced an assault incident around Landry Union.,Mumbai,2024-11-30,19.076,72.8777,Open,,177,Open
+63,Caleb saw a group vandalizing vehicles near Sheppard Ville.,Ahmedabad,2024-05-13,23.0225,72.5714,Closed,2024-06-08,26,Closed
+64,Michael saw a group vandalizing vehicles near James Corner.,Bangalore,2024-05-23,12.9716,77.5946,Open,,368,Open
+65,Patrick reported a theft in Jimmy Glens.,Delhi,2024-06-04,28.6139,77.209,Open,,356,Open
+66,Andrew reported cyber fraud involving Gregory Harbor.,Kolkata,2024-09-05,22.5726,88.3639,Closed,2024-11-29,85,Closed
+67,Ray reported a theft in Sullivan Shoal.,Hyderabad,2024-06-21,17.385,78.4867,Open,,339,Open
+68,Brenda was duped by a fake agent in Laura Ford.,Bangalore,2024-09-02,12.9716,77.5946,Closed,2024-11-27,86,Closed
+69,Billy suffered a wallet theft at Holly Keys.,Nagpur,2024-05-10,21.1458,79.0882,Open,,381,Open
+70,Theresa reported cyber fraud involving Gray Mountain.,Delhi,2025-02-01,28.6139,77.209,Closed,2025-02-08,7,Closed
+71,Rhonda was attacked with a knife at Walker Squares.,Kolkata,2024-06-13,22.5726,88.3639,Closed,2024-06-27,14,Closed
+72,Kimberly reported a theft in Jones Point.,Kolkata,2025-01-11,22.5726,88.3639,Open,,135,Open
+73,Natalie saw a group vandalizing vehicles near White Lodge.,Bangalore,2024-09-22,12.9716,77.5946,Open,,246,Open
+74,Billy had their phone snatched on Smith Lodge.,Chennai,2024-10-15,13.0827,80.2707,Closed,2025-01-02,79,Closed
+75,Michael experienced a burglary at Powell Trafficway.,Nagpur,2024-09-21,21.1458,79.0882,Closed,2024-09-28,7,Closed
+76,Megan saw a group vandalizing vehicles near Ortiz Stream.,Nagpur,2024-08-10,21.1458,79.0882,Closed,2024-08-19,9,Closed
+77,Marc was robbed at gunpoint near Brandon Groves.,Kolkata,2024-10-21,22.5726,88.3639,Closed,2024-12-08,48,Closed
+78,Jon experienced a burglary at Chapman Mall.,Chennai,2025-01-30,13.0827,80.2707,Open,,116,Open
+79,Travis was robbed at gunpoint near Randall Rapid.,Ahmedabad,2024-08-24,23.0225,72.5714,Open,,275,Open
+80,Gregory experienced a burglary at Laura Wall.,Pune,2025-02-27,18.5204,73.8567,Open,,88,Open
+81,Leonard had their phone snatched on Maria Tunnel.,Bangalore,2024-07-16,12.9716,77.5946,Closed,2024-09-26,72,Closed
+82,Christian had their phone snatched on Sara Lake.,Delhi,2024-08-10,28.6139,77.209,Closed,2024-10-08,59,Closed
+83,Austin reported a theft in Bowen Lock.,Chennai,2025-03-19,13.0827,80.2707,Open,,68,Open
+84,Michael suffered a wallet theft at Vasquez Ramp.,Pune,2025-03-15,18.5204,73.8567,Open,,72,Open
+85,Elizabeth saw a group vandalizing vehicles near Howard Glens.,Pune,2024-08-16,18.5204,73.8567,Open,,283,Open
+86,Charles was attacked with a knife at Kelly Stream.,Nagpur,2024-07-06,21.1458,79.0882,Open,,324,Open
+87,Julie saw a group vandalizing vehicles near Anderson Oval.,Ahmedabad,2024-12-30,23.0225,72.5714,Closed,2025-03-27,87,Closed
+88,Ryan reported cyber fraud involving Huber Branch.,Nagpur,2024-06-12,21.1458,79.0882,Closed,2024-09-02,82,Closed
+89,Peter faced an assault incident around Yang Crossroad.,Kolkata,2024-05-25,22.5726,88.3639,Closed,2024-07-03,39,Closed
+90,Jon had their phone snatched on Tracy Oval.,Mumbai,2024-12-05,19.076,72.8777,Open,,172,Open
+91,Dana had their phone snatched on Kirsten Rapid.,Kolkata,2024-05-20,22.5726,88.3639,Open,,371,Open
+92,Marcus was duped by a fake agent in Ortiz Lakes.,Bangalore,2024-07-25,12.9716,77.5946,Closed,2024-08-12,18,Closed
+93,Garrett suffered a wallet theft at Lisa Harbors.,Hyderabad,2024-11-02,17.385,78.4867,Closed,2024-12-31,59,Closed
+94,James suffered a wallet theft at Cain Street.,Kolkata,2024-08-12,22.5726,88.3639,Closed,2024-08-29,17,Closed
+95,Kimberly had their phone snatched on Morgan Glens.,Pune,2024-09-30,18.5204,73.8567,Closed,2024-10-14,14,Closed
+96,Kristina reported a theft in Marilyn Greens.,Jaipur,2024-05-27,26.9124,75.7873,Open,,364,Open
+97,Nicholas was robbed at gunpoint near Bright Manor.,Hyderabad,2024-07-14,17.385,78.4867,Closed,2024-08-14,31,Closed
+98,Rhonda saw a group vandalizing vehicles near Perez Stream.,Chennai,2024-10-16,13.0827,80.2707,Open,,222,Open
+99,Jennifer faced an assault incident around James Walk.,Jaipur,2024-11-15,26.9124,75.7873,Open,,192,Open
+100,Fernando was robbed at gunpoint near Kimberly Knolls.,Jaipur,2024-08-21,26.9124,75.7873,Open,,278,Open
+101,Heather was robbed at gunpoint near Mary Row.,Pune,2024-09-08,18.5204,73.8567,Open,,260,Open
+102,Austin reported a theft in Michael Views.,Jaipur,2025-04-20,26.9124,75.7873,Closed,2025-05-14,24,Closed
+103,Maria experienced a burglary at Jeffery Field.,Delhi,2024-05-03,28.6139,77.209,Open,,388,Open
+104,Amber saw a group vandalizing vehicles near Danielle Islands.,Pune,2024-10-03,18.5204,73.8567,Closed,2024-12-02,60,Closed
+105,Lisa reported cyber fraud involving Miller Burgs.,Jaipur,2025-01-27,26.9124,75.7873,Closed,2025-03-13,45,Closed
+106,Aaron had their phone snatched on Steven Village.,Ahmedabad,2025-02-27,23.0225,72.5714,Open,,88,Open
+107,Mary was attacked with a knife at Joy Falls.,Kolkata,2024-08-17,22.5726,88.3639,Open,,282,Open
+108,Mark faced an assault incident around Hector Summit.,Chennai,2024-10-10,13.0827,80.2707,Closed,2024-10-13,3,Closed
+109,Anthony had their phone snatched on Hardy Turnpike.,Ahmedabad,2025-03-07,23.0225,72.5714,Open,,80,Open
+110,Jennifer was duped by a fake agent in Diaz Center.,Ahmedabad,2024-09-07,23.0225,72.5714,Open,,261,Open
+111,Kevin reported a theft in Amanda Station.,Jaipur,2024-10-07,26.9124,75.7873,Open,,231,Open
+112,Maria was duped by a fake agent in Sandoval Valleys.,Pune,2024-12-29,18.5204,73.8567,Open,,148,Open
+113,Brenda was duped by a fake agent in Pamela Shoals.,Hyderabad,2024-10-15,17.385,78.4867,Closed,2024-11-21,37,Closed
+114,Calvin suffered a wallet theft at Payne Burg.,Mumbai,2024-06-14,19.076,72.8777,Closed,2024-07-27,43,Closed
+115,Kristen reported a theft in Emily Via.,Delhi,2024-08-16,28.6139,77.209,Closed,2024-09-25,40,Closed
+116,Henry was duped by a fake agent in Byrd Landing.,Delhi,2024-07-15,28.6139,77.209,Closed,2024-10-13,90,Closed
+117,Matthew reported a theft in Paul Ville.,Hyderabad,2025-03-31,17.385,78.4867,Closed,2025-05-25,55,Closed
+118,Jenna had their phone snatched on Edwards Crossroad.,Jaipur,2024-07-19,26.9124,75.7873,Open,,311,Open
+119,Cynthia saw a group vandalizing vehicles near Andrew Expressway.,Jaipur,2024-10-01,26.9124,75.7873,Closed,2024-12-27,87,Closed
+120,Lynn was attacked with a knife at Cobb Spur.,Ahmedabad,2024-08-09,23.0225,72.5714,Closed,2024-09-17,39,Closed
+121,Heather was attacked with a knife at William Valley.,Mumbai,2024-12-19,19.076,72.8777,Closed,2025-01-03,15,Closed
+122,Samantha suffered a wallet theft at Nicole Views.,Bangalore,2024-09-28,12.9716,77.5946,Closed,2024-10-02,4,Closed
+123,Noah reported a theft in Nancy Plains.,Jaipur,2024-05-31,26.9124,75.7873,Open,,360,Open
+124,Joel saw a group vandalizing vehicles near Bush Well.,Ahmedabad,2024-11-18,23.0225,72.5714,Open,,189,Open
+125,Michael was robbed at gunpoint near Gutierrez Plain.,Pune,2025-01-31,18.5204,73.8567,Open,,115,Open
+126,Kristen was robbed at gunpoint near Underwood Crossroad.,Kolkata,2025-02-10,22.5726,88.3639,Open,,105,Open
+127,Jesse had their phone snatched on Hamilton Mission.,Pune,2024-06-13,18.5204,73.8567,Closed,2024-09-07,86,Closed
+128,Shari was duped by a fake agent in Martinez Station.,Nagpur,2024-11-20,21.1458,79.0882,Closed,2024-12-15,25,Closed
+129,Kenneth suffered a wallet theft at Lauren Fords.,Ahmedabad,2024-06-19,23.0225,72.5714,Open,,341,Open
+130,Abigail was duped by a fake agent in Brown Parks.,Jaipur,2025-04-03,26.9124,75.7873,Closed,2025-04-16,13,Closed
+131,Catherine was attacked with a knife at Desiree Ford.,Delhi,2024-11-25,28.6139,77.209,Open,,182,Open
+132,Devin was robbed at gunpoint near Ryan Trail.,Mumbai,2024-08-13,19.076,72.8777,Open,,286,Open
+133,Tony reported cyber fraud involving Villegas View.,Mumbai,2024-12-02,19.076,72.8777,Open,,175,Open
+134,Henry reported cyber fraud involving Munoz Mall.,Ahmedabad,2025-03-06,23.0225,72.5714,Open,,81,Open
+135,Laurie saw a group vandalizing vehicles near Jessica Point.,Mumbai,2025-01-18,19.076,72.8777,Closed,2025-04-10,82,Closed
+136,Gregory was attacked with a knife at Wilson Shoal.,Ahmedabad,2024-12-16,23.0225,72.5714,Open,,161,Open
+137,Dominique reported cyber fraud involving Dawn Radial.,Jaipur,2025-02-21,26.9124,75.7873,Closed,2025-03-26,33,Closed
+138,Christine was robbed at gunpoint near Cox Mission.,Jaipur,2024-11-07,26.9124,75.7873,Closed,2024-11-23,16,Closed
+139,Adam saw a group vandalizing vehicles near James Place.,Chennai,2024-11-19,13.0827,80.2707,Open,,188,Open
+140,Evelyn experienced a burglary at Mark Mission.,Delhi,2025-02-09,28.6139,77.209,Closed,2025-03-23,42,Closed
+141,Elizabeth was robbed at gunpoint near Victoria Underpass.,Delhi,2025-02-19,28.6139,77.209,Closed,2025-04-26,66,Closed
+142,Christopher suffered a wallet theft at Castro Ridges.,Chennai,2024-10-18,13.0827,80.2707,Open,,220,Open
+143,Eric saw a group vandalizing vehicles near Anthony Rue.,Kolkata,2025-02-21,22.5726,88.3639,Open,,94,Open
+144,Jessica was robbed at gunpoint near Kimberly Locks.,Nagpur,2025-04-11,21.1458,79.0882,Open,,45,Open
+145,Glenn reported a theft in Blankenship Flat.,Kolkata,2025-02-12,22.5726,88.3639,Open,,103,Open
+146,Donald reported a theft in Jessica Branch.,Nagpur,2025-04-10,21.1458,79.0882,Open,,46,Open
+147,Travis reported a theft in Tim Park.,Chennai,2024-08-25,13.0827,80.2707,Closed,2024-10-19,55,Closed
+148,Timothy was duped by a fake agent in Deborah Lake.,Jaipur,2024-05-11,26.9124,75.7873,Closed,2024-06-22,42,Closed
+149,Andrea faced an assault incident around Lisa Gateway.,Pune,2025-03-07,18.5204,73.8567,Open,,80,Open
+150,Amy faced an assault incident around Cynthia Pike.,Jaipur,2024-12-29,26.9124,75.7873,Open,,148,Open
+151,Brian was robbed at gunpoint near Flowers Wall.,Chennai,2025-01-26,13.0827,80.2707,Closed,2025-03-01,34,Closed
+152,Antonio reported a theft in Sims Mountain.,Chennai,2025-02-06,13.0827,80.2707,Open,,109,Open
+153,Kaitlyn faced an assault incident around Angela Turnpike.,Mumbai,2024-07-28,19.076,72.8777,Open,,302,Open
+154,Andre saw a group vandalizing vehicles near Duncan Course.,Chennai,2025-03-07,13.0827,80.2707,Open,,80,Open
+155,Amber reported cyber fraud involving Christine Creek.,Hyderabad,2024-06-02,17.385,78.4867,Closed,2024-07-02,30,Closed
+156,Elizabeth experienced a burglary at Rodriguez Hill.,Jaipur,2024-08-11,26.9124,75.7873,Open,,288,Open
+157,Robert reported cyber fraud involving Turner Burgs.,Jaipur,2025-04-16,26.9124,75.7873,Closed,2025-04-29,13,Closed
+158,Dawn was attacked with a knife at James Mount.,Mumbai,2024-07-06,19.076,72.8777,Closed,2024-07-19,13,Closed
+159,Tyler suffered a wallet theft at Jenna Islands.,Bangalore,2024-08-04,12.9716,77.5946,Open,,295,Open
+160,Thomas reported a theft in Harris Circles.,Hyderabad,2025-03-04,17.385,78.4867,Closed,2025-03-22,18,Closed
+161,Theresa suffered a wallet theft at Rodriguez Gardens.,Delhi,2024-05-02,28.6139,77.209,Open,,389,Open
+162,Jonathan faced an assault incident around Devon Drives.,Chennai,2024-07-31,13.0827,80.2707,Closed,2024-09-01,32,Closed
+163,Shirley reported a theft in Monica Spurs.,Pune,2025-01-01,18.5204,73.8567,Closed,2025-02-09,39,Closed
+164,John had their phone snatched on Barnes Burg.,Kolkata,2024-09-15,22.5726,88.3639,Closed,2024-10-31,46,Closed
+165,Rebecca reported cyber fraud involving Amber Land.,Kolkata,2024-05-15,22.5726,88.3639,Open,,376,Open
+166,Michael experienced a burglary at Julie Loop.,Nagpur,2025-02-18,21.1458,79.0882,Closed,2025-03-19,29,Closed
+167,Allison had their phone snatched on Andrew Orchard.,Pune,2025-02-28,18.5204,73.8567,Open,,87,Open
+168,Christine reported cyber fraud involving Edwin Village.,Hyderabad,2024-07-04,17.385,78.4867,Open,,326,Open
+169,Rachel suffered a wallet theft at Leslie Garden.,Nagpur,2024-09-20,21.1458,79.0882,Open,,248,Open
+170,Tara reported cyber fraud involving Gary Valleys.,Kolkata,2024-05-10,22.5726,88.3639,Closed,2024-07-11,62,Closed
+171,Meghan saw a group vandalizing vehicles near Kenneth Shoals.,Chennai,2024-06-11,13.0827,80.2707,Closed,2024-08-12,62,Closed
+172,Ann saw a group vandalizing vehicles near Nelson Landing.,Delhi,2024-10-31,28.6139,77.209,Open,,207,Open
+173,Randy reported a theft in Adam Orchard.,Bangalore,2024-09-28,12.9716,77.5946,Closed,2024-11-24,57,Closed
+174,Patrick reported cyber fraud involving Brooks Grove.,Nagpur,2024-09-17,21.1458,79.0882,Open,,251,Open
+175,Kenneth reported a theft in Nicholas Branch.,Pune,2024-05-11,18.5204,73.8567,Closed,2024-05-27,16,Closed
+176,Ronald was attacked with a knife at Nixon Pike.,Kolkata,2024-07-18,22.5726,88.3639,Open,,312,Open
+177,Jamie reported cyber fraud involving Ronald Field.,Bangalore,2024-08-11,12.9716,77.5946,Closed,2024-10-06,56,Closed
+178,Jean had their phone snatched on Torres Greens.,Chennai,2025-03-30,13.0827,80.2707,Open,,57,Open
+179,Lynn had their phone snatched on Cohen Glen.,Hyderabad,2025-03-15,17.385,78.4867,Closed,2025-03-25,10,Closed
+180,Deborah saw a group vandalizing vehicles near Lonnie Views.,Bangalore,2024-07-18,12.9716,77.5946,Open,,312,Open
+181,Haley reported cyber fraud involving Carlos Coves.,Ahmedabad,2025-03-26,23.0225,72.5714,Open,,61,Open
+182,Lisa reported a theft in Riddle Rapid.,Delhi,2024-12-09,28.6139,77.209,Open,,168,Open
+183,Sarah reported cyber fraud involving Miranda Square.,Mumbai,2024-06-14,19.076,72.8777,Closed,2024-07-14,30,Closed
+184,Jennifer was robbed at gunpoint near Mayer Forks.,Delhi,2025-01-26,28.6139,77.209,Closed,2025-02-20,25,Closed
+185,Wendy was attacked with a knife at Mendez Ridge.,Hyderabad,2024-06-20,17.385,78.4867,Open,,340,Open
+186,Danielle was attacked with a knife at Craig Rue.,Bangalore,2024-05-01,12.9716,77.5946,Closed,2024-07-24,84,Closed
+187,Emily saw a group vandalizing vehicles near Wood Canyon.,Ahmedabad,2024-11-09,23.0225,72.5714,Closed,2024-11-14,5,Closed
+188,Kimberly saw a group vandalizing vehicles near Brianna Parkway.,Mumbai,2024-09-17,19.076,72.8777,Closed,2024-11-21,65,Closed
+189,Paul reported a theft in Evans Creek.,Delhi,2025-04-20,28.6139,77.209,Closed,2025-06-08,49,Closed
+190,Nicholas was attacked with a knife at Caldwell Mills.,Pune,2024-11-02,18.5204,73.8567,Open,,205,Open
+191,Kristin was robbed at gunpoint near Caroline Viaduct.,Kolkata,2024-08-27,22.5726,88.3639,Open,,272,Open
+192,Sharon faced an assault incident around Lauren Summit.,Hyderabad,2025-04-15,17.385,78.4867,Closed,2025-04-18,3,Closed
+193,Chris was attacked with a knife at Chapman Junctions.,Kolkata,2025-03-22,22.5726,88.3639,Closed,2025-05-06,45,Closed
+194,Bryan was attacked with a knife at Gill Loop.,Mumbai,2024-11-17,19.076,72.8777,Closed,2024-12-01,14,Closed
+195,Lisa reported cyber fraud involving Abigail Lakes.,Delhi,2025-02-17,28.6139,77.209,Open,,98,Open
+196,Edwin was robbed at gunpoint near Charles Lodge.,Hyderabad,2024-07-16,17.385,78.4867,Open,,314,Open
+197,Anna had their phone snatched on Robinson Lane.,Hyderabad,2025-04-10,17.385,78.4867,Closed,2025-05-10,30,Closed
+198,Aaron reported a theft in Alexander Mountains.,Jaipur,2024-12-19,26.9124,75.7873,Closed,2025-02-25,68,Closed
+199,Brandon saw a group vandalizing vehicles near Monica Common.,Hyderabad,2024-07-28,17.385,78.4867,Closed,2024-08-15,18,Closed
+200,Dan faced an assault incident around Kenneth Passage.,Mumbai,2024-09-22,19.076,72.8777,Closed,2024-11-23,62,Closed
+201,Joseph had their phone snatched on Haney Ridge.,Nagpur,2024-11-26,21.1458,79.0882,Closed,2025-01-02,37,Closed
+202,Amanda was attacked with a knife at Torres Shoals.,Nagpur,2024-12-20,21.1458,79.0882,Open,,157,Open
+203,William was robbed at gunpoint near Andrew Parks.,Mumbai,2024-05-31,19.076,72.8777,Open,,360,Open
+204,Jonathan experienced a burglary at Alison Pines.,Nagpur,2025-02-10,21.1458,79.0882,Closed,2025-03-07,25,Closed
+205,Lori had their phone snatched on Rubio Isle.,Mumbai,2024-06-03,19.076,72.8777,Closed,2024-07-21,48,Closed
+206,Jennifer was attacked with a knife at Hailey Passage.,Bangalore,2024-08-17,12.9716,77.5946,Open,,282,Open
+207,Bailey was duped by a fake agent in Buck Vista.,Pune,2024-11-28,18.5204,73.8567,Open,,179,Open
+208,Tammy suffered a wallet theft at Jackson Walks.,Delhi,2024-10-23,28.6139,77.209,Closed,2024-12-27,65,Closed
+209,Caitlin had their phone snatched on Rivera Knoll.,Jaipur,2024-07-31,26.9124,75.7873,Open,,299,Open
+210,Theresa experienced a burglary at Sara Mountains.,Ahmedabad,2025-03-29,23.0225,72.5714,Open,,58,Open
+211,Loretta had their phone snatched on Sara Rapid.,Bangalore,2024-12-17,12.9716,77.5946,Closed,2025-02-08,53,Closed
+212,Kathryn was robbed at gunpoint near Henry Turnpike.,Jaipur,2024-12-17,26.9124,75.7873,Closed,2025-03-06,79,Closed
+213,Joan was duped by a fake agent in Stephens Brook.,Jaipur,2024-08-01,26.9124,75.7873,Closed,2024-10-13,73,Closed
+214,Vanessa reported cyber fraud involving Lisa Streets.,Hyderabad,2024-10-23,17.385,78.4867,Open,,215,Open
+215,John reported cyber fraud involving Cunningham Summit.,Pune,2024-10-01,18.5204,73.8567,Closed,2024-10-16,15,Closed
+216,Michelle saw a group vandalizing vehicles near Allison Square.,Hyderabad,2024-09-18,17.385,78.4867,Open,,250,Open
+217,Patrick saw a group vandalizing vehicles near Amy Radial.,Mumbai,2024-11-23,19.076,72.8777,Open,,184,Open
+218,Cynthia was robbed at gunpoint near Farrell Roads.,Hyderabad,2024-12-21,17.385,78.4867,Closed,2025-02-08,49,Closed
+219,Lauren reported cyber fraud involving Jim Walks.,Pune,2024-11-16,18.5204,73.8567,Closed,2025-02-12,88,Closed
+220,Brenda faced an assault incident around Joseph Run.,Nagpur,2024-09-23,21.1458,79.0882,Closed,2024-11-30,68,Closed
+221,Phillip was robbed at gunpoint near Thomas Falls.,Bangalore,2025-04-14,12.9716,77.5946,Closed,2025-04-26,12,Closed
+222,Jeremiah faced an assault incident around Perez Parks.,Pune,2024-05-29,18.5204,73.8567,Closed,2024-07-27,59,Closed
+223,Kyle experienced a burglary at Brennan Mill.,Mumbai,2024-12-28,19.076,72.8777,Open,,149,Open
+224,Paul was duped by a fake agent in Brown Brooks.,Hyderabad,2025-03-07,17.385,78.4867,Open,,80,Open
+225,Christopher saw a group vandalizing vehicles near Valdez Square.,Chennai,2024-05-02,13.0827,80.2707,Open,,389,Open
+226,Lorraine was duped by a fake agent in John Trail.,Pune,2024-07-12,18.5204,73.8567,Open,,318,Open
+227,Melissa had their phone snatched on Barajas Row.,Chennai,2024-12-25,13.0827,80.2707,Closed,2025-01-31,37,Closed
+228,Alexander was robbed at gunpoint near Vazquez Rest.,Bangalore,2025-03-14,12.9716,77.5946,Open,,73,Open
+229,Kathleen was robbed at gunpoint near Murray Forks.,Mumbai,2025-04-26,19.076,72.8777,Closed,2025-06-26,61,Closed
+230,Jessica saw a group vandalizing vehicles near Campbell Fall.,Kolkata,2024-10-24,22.5726,88.3639,Closed,2024-12-06,43,Closed
+231,Joseph experienced a burglary at Brenda Crossing.,Jaipur,2025-01-27,26.9124,75.7873,Closed,2025-04-07,70,Closed
+232,Nicholas reported a theft in Stephen Crescent.,Mumbai,2024-06-23,19.076,72.8777,Closed,2024-08-01,39,Closed
+233,Matthew faced an assault incident around Courtney Alley.,Hyderabad,2024-08-21,17.385,78.4867,Closed,2024-10-16,56,Closed
+234,Jimmy reported a theft in Lisa Orchard.,Hyderabad,2025-04-23,17.385,78.4867,Open,,33,Open
+235,John saw a group vandalizing vehicles near Jimmy Run.,Bangalore,2024-12-22,12.9716,77.5946,Open,,155,Open
+236,Jim was duped by a fake agent in Gardner Overpass.,Bangalore,2025-02-01,12.9716,77.5946,Closed,2025-04-05,63,Closed
+237,Daisy was duped by a fake agent in Frederick Extension.,Hyderabad,2025-03-14,17.385,78.4867,Open,,73,Open
+238,Selena saw a group vandalizing vehicles near Mejia Landing.,Bangalore,2025-01-15,12.9716,77.5946,Open,,131,Open
+239,Philip had their phone snatched on Jessica Forks.,Nagpur,2024-11-02,21.1458,79.0882,Closed,2024-12-18,46,Closed
+240,Sherri was duped by a fake agent in Laura Circles.,Mumbai,2025-02-27,19.076,72.8777,Open,,88,Open
+241,James faced an assault incident around Taylor Gardens.,Nagpur,2024-05-30,21.1458,79.0882,Closed,2024-08-26,88,Closed
+242,Stacey reported cyber fraud involving Oneal Mills.,Chennai,2025-04-04,13.0827,80.2707,Closed,2025-04-15,11,Closed
+243,Cynthia saw a group vandalizing vehicles near Blake Road.,Mumbai,2025-04-08,19.076,72.8777,Closed,2025-06-09,62,Closed
+244,Kimberly reported cyber fraud involving Richard Greens.,Delhi,2025-04-21,28.6139,77.209,Open,,35,Open
+245,Cory had their phone snatched on Samuel Drives.,Bangalore,2024-08-16,12.9716,77.5946,Open,,283,Open
+246,Jacqueline faced an assault incident around Anthony Ville.,Mumbai,2024-10-22,19.076,72.8777,Closed,2025-01-07,77,Closed
+247,James experienced a burglary at Rivera Manor.,Chennai,2025-03-16,13.0827,80.2707,Open,,71,Open
+248,Nicole suffered a wallet theft at Darin Drive.,Ahmedabad,2024-06-03,23.0225,72.5714,Closed,2024-06-28,25,Closed
+249,Jessica had their phone snatched on Debra Terrace.,Ahmedabad,2024-08-30,23.0225,72.5714,Closed,2024-11-09,71,Closed
+250,Anthony suffered a wallet theft at Kimberly Locks.,Kolkata,2025-02-13,22.5726,88.3639,Closed,2025-04-06,52,Closed
+251,Randy reported a theft in Lynch Shoals.,Nagpur,2025-04-20,21.1458,79.0882,Open,,36,Open
+252,Christopher saw a group vandalizing vehicles near Johnson Street.,Bangalore,2025-03-08,12.9716,77.5946,Open,,79,Open
+253,John experienced a burglary at Green Circle.,Chennai,2025-02-03,13.0827,80.2707,Closed,2025-02-07,4,Closed
+254,Robert had their phone snatched on Guzman Pine.,Pune,2024-10-11,18.5204,73.8567,Open,,227,Open
+255,Jennifer had their phone snatched on Campbell Junctions.,Bangalore,2024-06-20,12.9716,77.5946,Open,,340,Open
+256,Christina was attacked with a knife at Tiffany Radial.,Jaipur,2025-04-25,26.9124,75.7873,Closed,2025-06-23,59,Closed
+257,Eric was robbed at gunpoint near Corey Forest.,Delhi,2024-06-25,28.6139,77.209,Closed,2024-09-05,72,Closed
+258,Eric suffered a wallet theft at Smith Centers.,Jaipur,2024-09-30,26.9124,75.7873,Closed,2024-10-20,20,Closed
+259,Melanie reported a theft in Nicholas Freeway.,Chennai,2024-10-29,13.0827,80.2707,Closed,2024-12-31,63,Closed
+260,Carolyn was duped by a fake agent in Brown Road.,Ahmedabad,2024-10-15,23.0225,72.5714,Open,,223,Open
+261,Alexis had their phone snatched on Brett Stream.,Chennai,2025-03-20,13.0827,80.2707,Closed,2025-05-13,54,Closed
+262,Aaron suffered a wallet theft at Fowler Parks.,Mumbai,2025-03-08,19.076,72.8777,Closed,2025-05-21,74,Closed
+263,Samuel had their phone snatched on Trevino Extensions.,Mumbai,2024-11-25,19.076,72.8777,Open,,182,Open
+264,Jamie was robbed at gunpoint near Lindsay Mission.,Nagpur,2024-07-11,21.1458,79.0882,Closed,2024-09-06,57,Closed
+265,Stephanie was duped by a fake agent in Taylor Manors.,Pune,2024-09-13,18.5204,73.8567,Closed,2024-12-12,90,Closed
+266,Spencer was attacked with a knife at John Pine.,Jaipur,2024-07-14,26.9124,75.7873,Closed,2024-08-24,41,Closed
+267,Michelle suffered a wallet theft at Laura Crest.,Kolkata,2024-06-04,22.5726,88.3639,Closed,2024-06-07,3,Closed
+268,Paula saw a group vandalizing vehicles near Brandi Stream.,Delhi,2025-01-08,28.6139,77.209,Closed,2025-01-14,6,Closed
+269,Bradley reported a theft in Erickson Estate.,Jaipur,2024-10-15,26.9124,75.7873,Open,,223,Open
+270,Erik was attacked with a knife at Andrew Meadows.,Ahmedabad,2025-01-11,23.0225,72.5714,Open,,135,Open
+271,Holly saw a group vandalizing vehicles near Joanna Heights.,Ahmedabad,2024-12-29,23.0225,72.5714,Closed,2025-01-03,5,Closed
+272,Thomas faced an assault incident around Gary Lodge.,Kolkata,2025-02-16,22.5726,88.3639,Closed,2025-02-21,5,Closed
+273,Amy suffered a wallet theft at Valdez Village.,Hyderabad,2025-03-22,17.385,78.4867,Closed,2025-05-15,54,Closed
+274,Robert saw a group vandalizing vehicles near Diane Drive.,Chennai,2024-10-04,13.0827,80.2707,Closed,2024-11-20,47,Closed
+275,Pamela saw a group vandalizing vehicles near Clark Port.,Mumbai,2024-09-10,19.076,72.8777,Closed,2024-12-06,87,Closed
+276,Dustin was attacked with a knife at Walker Wells.,Ahmedabad,2024-08-07,23.0225,72.5714,Closed,2024-09-25,49,Closed
+277,Lauren suffered a wallet theft at Mora Estate.,Ahmedabad,2025-01-06,23.0225,72.5714,Closed,2025-01-15,9,Closed
+278,Katherine had their phone snatched on Miller Summit.,Bangalore,2025-01-25,12.9716,77.5946,Closed,2025-02-14,20,Closed
+279,Ricardo saw a group vandalizing vehicles near Obrien Square.,Bangalore,2024-10-22,12.9716,77.5946,Closed,2024-12-22,61,Closed
+280,Brian had their phone snatched on Eddie Garden.,Ahmedabad,2024-05-09,23.0225,72.5714,Closed,2024-06-13,35,Closed
+281,Taylor suffered a wallet theft at Navarro Points.,Bangalore,2024-11-29,12.9716,77.5946,Closed,2025-01-18,50,Closed
+282,Karen reported cyber fraud involving Ramos Creek.,Pune,2024-10-11,18.5204,73.8567,Open,,227,Open
+283,Kimberly reported cyber fraud involving Rebecca Turnpike.,Jaipur,2024-06-11,26.9124,75.7873,Open,,349,Open
+284,Jennifer experienced a burglary at Renee Haven.,Hyderabad,2024-10-09,17.385,78.4867,Open,,229,Open
+285,Sarah reported a theft in Cameron Summit.,Kolkata,2024-12-07,22.5726,88.3639,Closed,2025-02-27,82,Closed
+286,Maurice was attacked with a knife at Rodgers Stream.,Nagpur,2024-08-21,21.1458,79.0882,Open,,278,Open
+287,Kimberly was duped by a fake agent in Woods Roads.,Jaipur,2024-07-13,26.9124,75.7873,Open,,317,Open
+288,Jasmine had their phone snatched on Amy Ports.,Nagpur,2024-07-07,21.1458,79.0882,Closed,2024-09-07,62,Closed
+289,Ryan was duped by a fake agent in Schroeder Street.,Pune,2024-10-10,18.5204,73.8567,Open,,228,Open
+290,Alfred experienced a burglary at Barnes Center.,Mumbai,2024-12-22,19.076,72.8777,Closed,2025-01-08,17,Closed
+291,Matthew suffered a wallet theft at Green Ridge.,Kolkata,2025-03-17,22.5726,88.3639,Open,,70,Open
+292,Stephen was robbed at gunpoint near Jeremy Field.,Mumbai,2025-03-24,19.076,72.8777,Open,,63,Open
+293,Felicia was duped by a fake agent in Tiffany Crossroad.,Jaipur,2024-07-22,26.9124,75.7873,Closed,2024-10-18,88,Closed
+294,Kristina faced an assault incident around Tina Centers.,Mumbai,2024-05-11,19.076,72.8777,Open,,380,Open
+295,Brent faced an assault incident around Jones Oval.,Delhi,2024-06-19,28.6139,77.209,Open,,341,Open
+296,Christine suffered a wallet theft at Tracey Ranch.,Mumbai,2024-10-19,19.076,72.8777,Closed,2024-10-22,3,Closed
+297,Lee experienced a burglary at Jordan Mission.,Delhi,2024-06-03,28.6139,77.209,Closed,2024-07-05,32,Closed
+298,Thomas was duped by a fake agent in Sanders Keys.,Bangalore,2024-06-15,12.9716,77.5946,Open,,345,Open
+299,George saw a group vandalizing vehicles near Clayton Mountains.,Mumbai,2024-08-29,19.076,72.8777,Closed,2024-09-11,13,Closed
+300,Edwin faced an assault incident around Alexandria Way.,Kolkata,2025-03-28,22.5726,88.3639,Open,,59,Open
+301,Evan suffered a wallet theft at Vance Port.,Jaipur,2024-10-28,26.9124,75.7873,Open,,210,Open
+302,Kathleen reported cyber fraud involving Vargas Estate.,Jaipur,2024-05-14,26.9124,75.7873,Closed,2024-08-11,89,Closed
+303,Courtney suffered a wallet theft at Erica Stravenue.,Mumbai,2024-11-02,19.076,72.8777,Closed,2025-01-14,73,Closed
+304,Tyler was duped by a fake agent in Peck Island.,Delhi,2024-06-27,28.6139,77.209,Closed,2024-09-03,68,Closed
+305,Austin was duped by a fake agent in Ricky Skyway.,Hyderabad,2024-11-19,17.385,78.4867,Closed,2024-12-03,14,Closed
+306,Cody suffered a wallet theft at Mathis River.,Nagpur,2024-12-21,21.1458,79.0882,Closed,2025-01-01,11,Closed
+307,Jodi faced an assault incident around William Mountain.,Nagpur,2024-06-27,21.1458,79.0882,Closed,2024-08-22,56,Closed
+308,Logan was robbed at gunpoint near James Path.,Kolkata,2024-07-25,22.5726,88.3639,Open,,305,Open
+309,Brenda faced an assault incident around Sandoval Cape.,Mumbai,2024-06-01,19.076,72.8777,Closed,2024-08-07,67,Closed
+310,Julia was robbed at gunpoint near Tara Lock.,Chennai,2025-01-12,13.0827,80.2707,Open,,134,Open
+311,Matthew was duped by a fake agent in Manning Heights.,Pune,2024-10-28,18.5204,73.8567,Open,,210,Open
+312,Frederick suffered a wallet theft at Keith Creek.,Nagpur,2024-08-01,21.1458,79.0882,Open,,298,Open
+313,Thomas was robbed at gunpoint near Nathan Lodge.,Nagpur,2024-08-18,21.1458,79.0882,Open,,281,Open
+314,Angela was duped by a fake agent in Margaret Ford.,Bangalore,2025-01-02,12.9716,77.5946,Closed,2025-01-31,29,Closed
+315,Cynthia had their phone snatched on Henderson Plain.,Hyderabad,2025-01-24,17.385,78.4867,Closed,2025-02-02,9,Closed
+316,Spencer experienced a burglary at James Heights.,Ahmedabad,2025-01-02,23.0225,72.5714,Closed,2025-03-10,67,Closed
+317,Linda was duped by a fake agent in Gail Crescent.,Hyderabad,2024-05-11,17.385,78.4867,Open,,380,Open
+318,Sarah was duped by a fake agent in Patel Curve.,Bangalore,2025-02-25,12.9716,77.5946,Open,,90,Open
+319,Derek reported a theft in Tamara Hills.,Bangalore,2024-07-17,12.9716,77.5946,Open,,313,Open
+320,Laura was robbed at gunpoint near Robert Wells.,Ahmedabad,2025-04-13,23.0225,72.5714,Open,,43,Open
+321,Tammy was robbed at gunpoint near Flores Unions.,Kolkata,2024-10-19,22.5726,88.3639,Closed,2024-11-13,25,Closed
+322,Ronald had their phone snatched on Mann Throughway.,Hyderabad,2025-01-16,17.385,78.4867,Closed,2025-04-02,76,Closed
+323,Yesenia was robbed at gunpoint near Nguyen Burgs.,Pune,2025-03-23,18.5204,73.8567,Closed,2025-05-04,42,Closed
+324,Briana had their phone snatched on Cynthia Stream.,Delhi,2024-11-15,28.6139,77.209,Open,,192,Open
+325,Kristie was robbed at gunpoint near Sheri Extension.,Jaipur,2025-04-10,26.9124,75.7873,Closed,2025-04-19,9,Closed
+326,Kristin was attacked with a knife at Stone Expressway.,Chennai,2025-01-16,13.0827,80.2707,Closed,2025-04-05,79,Closed
+327,Matthew was attacked with a knife at Andre Bridge.,Jaipur,2025-01-27,26.9124,75.7873,Closed,2025-03-08,40,Closed
+328,Kathleen reported a theft in Joseph Mission.,Ahmedabad,2024-06-06,23.0225,72.5714,Closed,2024-07-01,25,Closed
+329,Michelle had their phone snatched on Rodriguez Orchard.,Chennai,2024-08-24,13.0827,80.2707,Open,,275,Open
+330,Brandy reported cyber fraud involving Gonzalez Forks.,Ahmedabad,2024-09-08,23.0225,72.5714,Open,,260,Open
+331,Benjamin was attacked with a knife at Laurie Mills.,Hyderabad,2024-05-12,17.385,78.4867,Open,,379,Open
+332,Zachary faced an assault incident around Andrea Drive.,Chennai,2024-11-07,13.0827,80.2707,Closed,2024-11-12,5,Closed
+333,Jason was attacked with a knife at Ramsey Club.,Pune,2025-03-31,18.5204,73.8567,Open,,56,Open
+334,Lori reported a theft in Garcia Rapids.,Bangalore,2024-08-03,12.9716,77.5946,Open,,296,Open
+335,Mary was robbed at gunpoint near Cannon Walks.,Chennai,2025-03-22,13.0827,80.2707,Open,,65,Open
+336,David faced an assault incident around Williams Summit.,Bangalore,2024-09-21,12.9716,77.5946,Open,,247,Open
+337,Harry was duped by a fake agent in Gary Groves.,Mumbai,2024-12-04,19.076,72.8777,Closed,2024-12-15,11,Closed
+338,Donald reported a theft in Anthony Shoals.,Jaipur,2024-12-28,26.9124,75.7873,Closed,2025-02-25,59,Closed
+339,Gabriel had their phone snatched on Richardson Drive.,Chennai,2024-06-06,13.0827,80.2707,Open,,354,Open
+340,Antonio reported cyber fraud involving Dawn Canyon.,Pune,2025-02-09,18.5204,73.8567,Open,,106,Open
+341,Brenda reported a theft in Alexandra Heights.,Chennai,2025-03-24,13.0827,80.2707,Open,,63,Open
+342,Charles was robbed at gunpoint near Farmer Parks.,Chennai,2024-12-16,13.0827,80.2707,Open,,161,Open
+343,Christopher saw a group vandalizing vehicles near Valerie Lodge.,Hyderabad,2024-08-21,17.385,78.4867,Open,,278,Open
+344,Cory experienced a burglary at Amanda Courts.,Mumbai,2025-02-10,19.076,72.8777,Open,,105,Open
+345,Katrina saw a group vandalizing vehicles near Davis Mission.,Pune,2024-09-28,18.5204,73.8567,Open,,240,Open
+346,Valerie was robbed at gunpoint near Alexis Street.,Hyderabad,2024-05-25,17.385,78.4867,Closed,2024-08-21,88,Closed
+347,Warren suffered a wallet theft at Gillespie Landing.,Mumbai,2025-04-04,19.076,72.8777,Closed,2025-06-22,79,Closed
+348,David was duped by a fake agent in Diaz Trail.,Pune,2024-09-11,18.5204,73.8567,Open,,257,Open
+349,Lisa suffered a wallet theft at Veronica Union.,Hyderabad,2024-09-23,17.385,78.4867,Open,,245,Open
+350,Timothy was duped by a fake agent in Thomas Junctions.,Nagpur,2024-07-22,21.1458,79.0882,Closed,2024-08-29,38,Closed
+351,Gregory saw a group vandalizing vehicles near Lewis Village.,Nagpur,2025-02-05,21.1458,79.0882,Closed,2025-04-18,72,Closed
+352,Bryan faced an assault incident around Tran Terrace.,Bangalore,2024-10-28,12.9716,77.5946,Closed,2024-11-02,5,Closed
+353,Eric suffered a wallet theft at Harris Fall.,Kolkata,2024-05-09,22.5726,88.3639,Closed,2024-06-26,48,Closed
+354,Audrey was duped by a fake agent in Kara Skyway.,Ahmedabad,2025-02-14,23.0225,72.5714,Open,,101,Open
+355,Nicole reported cyber fraud involving Sara Park.,Chennai,2024-12-03,13.0827,80.2707,Open,,174,Open
+356,Allen had their phone snatched on Rachel Dale.,Hyderabad,2024-08-08,17.385,78.4867,Closed,2024-11-06,90,Closed
+357,Ashley reported cyber fraud involving Harper Skyway.,Pune,2024-08-18,18.5204,73.8567,Open,,281,Open
+358,Luke had their phone snatched on Angela Loop.,Ahmedabad,2024-11-26,23.0225,72.5714,Closed,2024-12-14,18,Closed
+359,Kathleen faced an assault incident around Gomez Viaduct.,Ahmedabad,2024-07-30,23.0225,72.5714,Closed,2024-10-08,70,Closed
+360,Brandon was duped by a fake agent in Frank Cove.,Chennai,2025-01-29,13.0827,80.2707,Closed,2025-03-07,37,Closed
+361,Deanna was robbed at gunpoint near April Mall.,Hyderabad,2024-12-30,17.385,78.4867,Open,,147,Open
+362,Kenneth experienced a burglary at Gardner Point.,Ahmedabad,2024-06-07,23.0225,72.5714,Closed,2024-08-06,60,Closed
+363,James suffered a wallet theft at Lopez Glens.,Nagpur,2024-12-28,21.1458,79.0882,Open,,149,Open
+364,Norman experienced a burglary at Tyler Way.,Jaipur,2025-04-02,26.9124,75.7873,Closed,2025-05-20,48,Closed
+365,Roger experienced a burglary at Steven Points.,Bangalore,2024-06-17,12.9716,77.5946,Closed,2024-09-02,77,Closed
+366,William faced an assault incident around Yoder Crest.,Bangalore,2024-09-29,12.9716,77.5946,Open,,239,Open
+367,Donald saw a group vandalizing vehicles near Cohen Crossing.,Bangalore,2025-04-28,12.9716,77.5946,Closed,2025-05-26,28,Closed
+368,Keith saw a group vandalizing vehicles near Gilbert Gateway.,Delhi,2025-02-25,28.6139,77.209,Closed,2025-05-05,69,Closed
+369,Erin reported a theft in Lori Coves.,Jaipur,2024-07-22,26.9124,75.7873,Open,,308,Open
+370,Gina was duped by a fake agent in Amber Summit.,Jaipur,2024-11-14,26.9124,75.7873,Open,,193,Open
+371,David saw a group vandalizing vehicles near Rodriguez Forest.,Ahmedabad,2024-07-30,23.0225,72.5714,Open,,300,Open
+372,Tracy suffered a wallet theft at Bailey Plain.,Jaipur,2024-09-10,26.9124,75.7873,Open,,258,Open
+373,James suffered a wallet theft at Young Port.,Ahmedabad,2025-01-08,23.0225,72.5714,Open,,138,Open
+374,Judy reported a theft in Palmer Inlet.,Delhi,2025-04-19,28.6139,77.209,Closed,2025-07-05,77,Closed
+375,Valerie had their phone snatched on Wagner Mill.,Bangalore,2024-12-30,12.9716,77.5946,Open,,147,Open
+376,Timothy had their phone snatched on Reyes Dale.,Mumbai,2024-08-10,19.076,72.8777,Open,,289,Open
+377,Melissa faced an assault incident around Kara Inlet.,Bangalore,2025-01-04,12.9716,77.5946,Closed,2025-03-26,81,Closed
+378,Shannon suffered a wallet theft at Walter Stream.,Hyderabad,2025-01-16,17.385,78.4867,Open,,130,Open
+379,Joshua saw a group vandalizing vehicles near Sanchez Plains.,Kolkata,2024-09-26,22.5726,88.3639,Closed,2024-11-05,40,Closed
+380,Courtney was duped by a fake agent in Carter Trace.,Hyderabad,2024-10-11,17.385,78.4867,Open,,227,Open
+381,Shannon experienced a burglary at Miller Mission.,Kolkata,2024-12-21,22.5726,88.3639,Open,,156,Open
+382,Travis suffered a wallet theft at Richard Stream.,Hyderabad,2024-05-24,17.385,78.4867,Closed,2024-07-08,45,Closed
+383,Carol reported cyber fraud involving Thompson View.,Bangalore,2024-09-12,12.9716,77.5946,Closed,2024-11-13,62,Closed
+384,Mary had their phone snatched on Ponce River.,Bangalore,2024-12-27,12.9716,77.5946,Closed,2025-02-23,58,Closed
+385,Jonathan had their phone snatched on Vickie Crest.,Pune,2024-10-23,18.5204,73.8567,Closed,2024-12-29,67,Closed
+386,Alexis reported a theft in Hopkins Loaf.,Hyderabad,2024-10-01,17.385,78.4867,Closed,2024-11-26,56,Closed
+387,Sarah was attacked with a knife at Wendy Glens.,Kolkata,2024-11-07,22.5726,88.3639,Open,,200,Open
+388,Jose had their phone snatched on Christy Track.,Jaipur,2025-04-30,26.9124,75.7873,Open,,26,Open
+389,Scott reported cyber fraud involving Robinson Cliff.,Ahmedabad,2025-02-28,23.0225,72.5714,Closed,2025-04-09,40,Closed
+390,Zachary saw a group vandalizing vehicles near Rachel Crescent.,Chennai,2024-09-13,13.0827,80.2707,Closed,2024-10-23,40,Closed
+391,Kimberly reported cyber fraud involving Macias Drives.,Chennai,2025-04-19,13.0827,80.2707,Closed,2025-07-05,77,Closed
+392,Heather had their phone snatched on Potter Trace.,Pune,2025-04-14,18.5204,73.8567,Open,,42,Open
+393,Anna had their phone snatched on Jason Parks.,Bangalore,2024-06-21,12.9716,77.5946,Open,,339,Open
+394,Stefanie was attacked with a knife at Nguyen Lock.,Hyderabad,2024-05-20,17.385,78.4867,Closed,2024-06-22,33,Closed
+395,Cynthia was robbed at gunpoint near Isaac Meadow.,Bangalore,2024-05-31,12.9716,77.5946,Open,,360,Open
+396,Scott was attacked with a knife at Jamie Forges.,Kolkata,2024-08-31,22.5726,88.3639,Closed,2024-09-06,6,Closed
+397,Katherine was robbed at gunpoint near Scott Stream.,Bangalore,2025-03-08,12.9716,77.5946,Closed,2025-06-04,88,Closed
+398,Randy saw a group vandalizing vehicles near Roy Alley.,Delhi,2024-07-19,28.6139,77.209,Open,,311,Open
+399,Corey was attacked with a knife at Heather Points.,Bangalore,2025-03-26,12.9716,77.5946,Closed,2025-04-14,19,Closed
+400,Blake reported a theft in Miller Hollow.,Ahmedabad,2024-11-10,23.0225,72.5714,Closed,2025-01-29,80,Closed
+401,Bradley faced an assault incident around Bryce Club.,Delhi,2024-11-10,28.6139,77.209,Open,,197,Open
+402,Sandra suffered a wallet theft at Garcia Alley.,Bangalore,2025-04-04,12.9716,77.5946,Closed,2025-05-14,40,Closed
+403,Daniel suffered a wallet theft at Brown Cliff.,Ahmedabad,2024-06-17,23.0225,72.5714,Closed,2024-08-15,59,Closed
+404,Peter was attacked with a knife at Sandra Cliffs.,Hyderabad,2024-11-10,17.385,78.4867,Closed,2025-01-08,59,Closed
+405,Steven reported cyber fraud involving Shelly Streets.,Delhi,2024-06-27,28.6139,77.209,Open,,333,Open
+406,Jennifer reported a theft in Kim Forks.,Ahmedabad,2025-01-04,23.0225,72.5714,Closed,2025-02-21,48,Closed
+407,Tanya was duped by a fake agent in Anderson Lakes.,Pune,2024-06-30,18.5204,73.8567,Open,,330,Open
+408,Natasha reported a theft in Angela Shores.,Ahmedabad,2024-05-03,23.0225,72.5714,Open,,388,Open
+409,Melissa was robbed at gunpoint near Hayes Corner.,Chennai,2024-12-09,13.0827,80.2707,Closed,2025-01-19,41,Closed
+410,Joshua was attacked with a knife at Nicole Shoal.,Nagpur,2024-09-04,21.1458,79.0882,Open,,264,Open
+411,Nicole reported cyber fraud involving Mark Center.,Chennai,2024-05-23,13.0827,80.2707,Open,,368,Open
+412,Karen had their phone snatched on Brandy Locks.,Pune,2025-01-12,18.5204,73.8567,Closed,2025-01-25,13,Closed
+413,Tracy saw a group vandalizing vehicles near John Path.,Pune,2024-07-31,18.5204,73.8567,Closed,2024-09-14,45,Closed
+414,John faced an assault incident around Morgan Mews.,Mumbai,2024-11-10,19.076,72.8777,Closed,2025-02-07,89,Closed
+415,Sarah faced an assault incident around Hughes Lights.,Chennai,2024-11-09,13.0827,80.2707,Closed,2025-01-01,53,Closed
+416,Ashley saw a group vandalizing vehicles near Ashley Roads.,Jaipur,2025-03-24,26.9124,75.7873,Open,,63,Open
+417,Daniel suffered a wallet theft at Dustin Springs.,Mumbai,2024-07-12,19.076,72.8777,Open,,318,Open
+418,Laura reported cyber fraud involving Rebecca River.,Ahmedabad,2025-04-20,23.0225,72.5714,Open,,36,Open
+419,Lori was duped by a fake agent in Lindsay Inlet.,Chennai,2024-06-30,13.0827,80.2707,Closed,2024-08-11,42,Closed
+420,Alan faced an assault incident around Teresa Ridge.,Bangalore,2025-01-07,12.9716,77.5946,Closed,2025-03-11,63,Closed
+421,Robert was robbed at gunpoint near Smith Gardens.,Chennai,2024-05-07,13.0827,80.2707,Closed,2024-06-03,27,Closed
+422,Karen reported a theft in Barnes Squares.,Chennai,2024-10-17,13.0827,80.2707,Closed,2024-11-24,38,Closed
+423,Shawn had their phone snatched on Waller Parkway.,Jaipur,2024-06-08,26.9124,75.7873,Open,,352,Open
+424,Peter reported a theft in Rhonda Crossing.,Bangalore,2025-01-13,12.9716,77.5946,Open,,133,Open
+425,Amy had their phone snatched on Kristine Extension.,Nagpur,2024-08-22,21.1458,79.0882,Open,,277,Open
+426,Cynthia saw a group vandalizing vehicles near Nelson Trail.,Nagpur,2024-08-16,21.1458,79.0882,Closed,2024-10-15,60,Closed
+427,Robert was attacked with a knife at Thomas Way.,Pune,2025-01-22,18.5204,73.8567,Open,,124,Open
+428,Jennifer was duped by a fake agent in Cannon Ports.,Delhi,2024-06-18,28.6139,77.209,Closed,2024-06-25,7,Closed
+429,Jared faced an assault incident around Paul Underpass.,Ahmedabad,2024-12-20,23.0225,72.5714,Open,,157,Open
+430,James reported cyber fraud involving Kimberly Mount.,Ahmedabad,2024-10-11,23.0225,72.5714,Open,,227,Open
+431,Heidi had their phone snatched on Joseph Mount.,Delhi,2024-07-07,28.6139,77.209,Open,,323,Open
+432,Willie reported cyber fraud involving Arthur Prairie.,Bangalore,2025-01-06,12.9716,77.5946,Closed,2025-01-11,5,Closed
+433,Mary reported a theft in Rita Lights.,Ahmedabad,2025-03-09,23.0225,72.5714,Closed,2025-04-23,45,Closed
+434,Crystal reported cyber fraud involving Lisa Track.,Jaipur,2025-02-26,26.9124,75.7873,Open,,89,Open
+435,Jesse had their phone snatched on Tyler Alley.,Chennai,2024-09-20,13.0827,80.2707,Open,,248,Open
+436,Robert reported a theft in Theresa Estate.,Mumbai,2024-10-26,19.076,72.8777,Closed,2024-12-23,58,Closed
+437,Loretta had their phone snatched on Lisa Place.,Kolkata,2024-08-13,22.5726,88.3639,Open,,286,Open
+438,Justin reported cyber fraud involving Walton Dam.,Nagpur,2024-12-27,21.1458,79.0882,Closed,2025-01-27,31,Closed
+439,Caleb reported a theft in Garcia Pass.,Nagpur,2025-04-21,21.1458,79.0882,Closed,2025-05-14,23,Closed
+440,Alexis was attacked with a knife at Chapman Tunnel.,Delhi,2024-07-27,28.6139,77.209,Open,,303,Open
+441,Michael faced an assault incident around Mary Stravenue.,Bangalore,2024-07-05,12.9716,77.5946,Open,,325,Open
+442,Nicole reported cyber fraud involving Morales Flats.,Chennai,2024-05-08,13.0827,80.2707,Closed,2024-06-19,42,Closed
+443,Rick reported a theft in Miller Motorway.,Ahmedabad,2024-11-23,23.0225,72.5714,Open,,184,Open
+444,Keith reported cyber fraud involving Tracy Turnpike.,Ahmedabad,2024-05-20,23.0225,72.5714,Open,,371,Open
+445,Jessica reported cyber fraud involving Walker Villages.,Mumbai,2025-02-21,19.076,72.8777,Closed,2025-03-03,10,Closed
+446,Daniel saw a group vandalizing vehicles near Ethan Via.,Kolkata,2024-11-28,22.5726,88.3639,Closed,2024-12-30,32,Closed
+447,Karen suffered a wallet theft at Laura Glens.,Ahmedabad,2024-10-19,23.0225,72.5714,Closed,2024-12-11,53,Closed
+448,Jennifer faced an assault incident around Isaac Roads.,Pune,2024-05-02,18.5204,73.8567,Closed,2024-06-01,30,Closed
+449,Mike was duped by a fake agent in Amanda Motorway.,Delhi,2025-01-19,28.6139,77.209,Open,,127,Open
+450,Ashley faced an assault incident around Crystal Estate.,Hyderabad,2024-08-26,17.385,78.4867,Open,,273,Open
+451,Tyler was robbed at gunpoint near Edward Mountains.,Bangalore,2024-12-19,12.9716,77.5946,Closed,2025-01-27,39,Closed
+452,Jon had their phone snatched on French Motorway.,Pune,2024-05-31,18.5204,73.8567,Closed,2024-07-01,31,Closed
+453,Holly faced an assault incident around Malone Stravenue.,Chennai,2024-11-11,13.0827,80.2707,Open,,196,Open
+454,Thomas reported cyber fraud involving Lisa Rapid.,Delhi,2024-10-09,28.6139,77.209,Closed,2024-12-30,82,Closed
+455,Caroline was robbed at gunpoint near Morrison Meadow.,Chennai,2024-05-12,13.0827,80.2707,Open,,379,Open
+456,Brian suffered a wallet theft at Berry Wells.,Nagpur,2025-04-01,21.1458,79.0882,Open,,55,Open
+457,Andres suffered a wallet theft at Russo Way.,Kolkata,2025-02-25,22.5726,88.3639,Open,,90,Open
+458,David was attacked with a knife at Roberta Squares.,Bangalore,2024-11-23,12.9716,77.5946,Open,,184,Open
+459,Karen was duped by a fake agent in James Highway.,Chennai,2024-05-16,13.0827,80.2707,Open,,375,Open
+460,Jenny reported a theft in Romero Ridge.,Ahmedabad,2024-11-01,23.0225,72.5714,Open,,206,Open
+461,Kirk experienced a burglary at David Plaza.,Ahmedabad,2024-09-14,23.0225,72.5714,Open,,254,Open
+462,Sharon experienced a burglary at Jill Route.,Mumbai,2024-06-07,19.076,72.8777,Closed,2024-06-09,2,Closed
+463,Mark reported a theft in Colin Orchard.,Hyderabad,2025-04-23,17.385,78.4867,Closed,2025-07-10,78,Closed
+464,Megan experienced a burglary at Martinez Hills.,Nagpur,2024-06-04,21.1458,79.0882,Closed,2024-08-20,77,Closed
+465,Andrea suffered a wallet theft at Justin Islands.,Mumbai,2024-09-20,19.076,72.8777,Closed,2024-10-02,12,Closed
+466,Wayne was duped by a fake agent in Kennedy Streets.,Bangalore,2024-06-24,12.9716,77.5946,Open,,336,Open
+467,Douglas was robbed at gunpoint near Ruiz Creek.,Kolkata,2025-04-08,22.5726,88.3639,Open,,48,Open
+468,Daniel reported a theft in Duncan Crossing.,Ahmedabad,2024-05-31,23.0225,72.5714,Closed,2024-07-09,39,Closed
+469,Megan reported cyber fraud involving Taylor Glens.,Hyderabad,2024-06-05,17.385,78.4867,Open,,355,Open
+470,Patricia reported a theft in Abigail Wells.,Hyderabad,2024-11-23,17.385,78.4867,Closed,2025-01-28,66,Closed
+471,Anna saw a group vandalizing vehicles near Ellis Spring.,Mumbai,2025-03-06,19.076,72.8777,Open,,81,Open
+472,Joshua saw a group vandalizing vehicles near Marsh Islands.,Delhi,2024-12-20,28.6139,77.209,Closed,2025-01-02,13,Closed
+473,Thomas was duped by a fake agent in Webb Curve.,Ahmedabad,2024-09-28,23.0225,72.5714,Open,,240,Open
+474,Brian had their phone snatched on Williams Ford.,Delhi,2024-08-01,28.6139,77.209,Closed,2024-09-16,46,Closed
+475,Jennifer experienced a burglary at Shannon Hill.,Kolkata,2024-11-15,22.5726,88.3639,Closed,2024-12-12,27,Closed
+476,Andrew suffered a wallet theft at Dunn Groves.,Chennai,2025-04-06,13.0827,80.2707,Closed,2025-04-23,17,Closed
+477,Sara was robbed at gunpoint near William Port.,Ahmedabad,2024-06-06,23.0225,72.5714,Open,,354,Open
+478,Daniel reported cyber fraud involving Oconnor Inlet.,Jaipur,2024-09-11,26.9124,75.7873,Closed,2024-11-10,60,Closed
+479,Hannah was attacked with a knife at Spencer Curve.,Kolkata,2025-03-23,22.5726,88.3639,Closed,2025-05-26,64,Closed
+480,Jessica suffered a wallet theft at Robert Dam.,Bangalore,2024-09-05,12.9716,77.5946,Closed,2024-12-02,88,Closed
+481,Christopher reported a theft in Cody Pike.,Ahmedabad,2024-06-06,23.0225,72.5714,Closed,2024-07-11,35,Closed
+482,Angelica faced an assault incident around Jessica Street.,Delhi,2024-06-18,28.6139,77.209,Closed,2024-08-27,70,Closed
+483,Morgan was attacked with a knife at Mario Forks.,Jaipur,2024-10-29,26.9124,75.7873,Open,,209,Open
+484,Shannon saw a group vandalizing vehicles near Obrien Motorway.,Bangalore,2024-06-17,12.9716,77.5946,Closed,2024-09-08,83,Closed
+485,Charles saw a group vandalizing vehicles near Gilbert Flat.,Delhi,2025-03-13,28.6139,77.209,Closed,2025-04-12,30,Closed
+486,Isaac reported a theft in Harding Summit.,Mumbai,2024-08-14,19.076,72.8777,Closed,2024-10-24,71,Closed
+487,Erin reported a theft in Sean Roads.,Jaipur,2024-12-07,26.9124,75.7873,Open,,170,Open
+488,Mark reported a theft in Amanda Extensions.,Ahmedabad,2025-01-30,23.0225,72.5714,Open,,116,Open
+489,Brenda suffered a wallet theft at Leslie Locks.,Nagpur,2025-03-20,21.1458,79.0882,Closed,2025-06-02,74,Closed
+490,Scott saw a group vandalizing vehicles near Miller Landing.,Bangalore,2024-07-15,12.9716,77.5946,Closed,2024-09-16,63,Closed
+491,Joseph was duped by a fake agent in Patricia Corners.,Bangalore,2025-03-09,12.9716,77.5946,Open,,78,Open
+492,Billy suffered a wallet theft at Danielle Centers.,Ahmedabad,2024-08-22,23.0225,72.5714,Closed,2024-09-19,28,Closed
+493,William suffered a wallet theft at Scott Ports.,Jaipur,2025-03-09,26.9124,75.7873,Open,,78,Open
+494,Kelly was attacked with a knife at Lewis Ramp.,Kolkata,2024-12-26,22.5726,88.3639,Open,,151,Open
+495,Mary had their phone snatched on Douglas Cliff.,Mumbai,2024-08-05,19.076,72.8777,Open,,294,Open
+496,Ann saw a group vandalizing vehicles near David Trail.,Chennai,2024-05-01,13.0827,80.2707,Open,,390,Open
+497,Kim reported a theft in Avery Oval.,Nagpur,2024-06-01,21.1458,79.0882,Closed,2024-07-31,60,Closed
+498,Perry was duped by a fake agent in Blackburn Mews.,Bangalore,2025-03-25,12.9716,77.5946,Open,,62,Open
+499,Julia saw a group vandalizing vehicles near Hamilton Avenue.,Hyderabad,2024-11-21,17.385,78.4867,Closed,2025-02-08,79,Closed
+500,Michael was robbed at gunpoint near Roman Tunnel.,Bangalore,2024-12-09,12.9716,77.5946,Closed,2025-01-15,37,Closed
+501,Ronald reported cyber fraud involving Brian Club.,Bangalore,2024-12-16,12.9716,77.5946,Closed,2025-01-07,22,Closed
+502,Jennifer faced an assault incident around Vargas Meadows.,Chennai,2024-08-22,13.0827,80.2707,Closed,2024-10-29,68,Closed
+503,Xavier was attacked with a knife at Destiny Forest.,Ahmedabad,2024-06-27,23.0225,72.5714,Open,,333,Open
+504,Leah saw a group vandalizing vehicles near Jimmy Estates.,Ahmedabad,2025-03-28,23.0225,72.5714,Closed,2025-04-17,20,Closed
+505,Frank experienced a burglary at Dennis Stravenue.,Ahmedabad,2024-09-13,23.0225,72.5714,Closed,2024-11-20,68,Closed
+506,Erik saw a group vandalizing vehicles near Henry Meadows.,Hyderabad,2024-07-29,17.385,78.4867,Open,,301,Open
+507,John was duped by a fake agent in Peter Prairie.,Kolkata,2024-07-14,22.5726,88.3639,Closed,2024-09-16,64,Closed
+508,Emily experienced a burglary at Michael Trace.,Ahmedabad,2024-11-11,23.0225,72.5714,Closed,2024-11-28,17,Closed
+509,Andrea had their phone snatched on Karen Rest.,Jaipur,2024-12-30,26.9124,75.7873,Closed,2025-01-11,12,Closed
+510,Mary was duped by a fake agent in Leonard Valleys.,Chennai,2025-04-26,13.0827,80.2707,Closed,2025-05-18,22,Closed
+511,Nicole was duped by a fake agent in Carolyn Circle.,Jaipur,2024-06-03,26.9124,75.7873,Closed,2024-06-20,17,Closed
+512,Michele experienced a burglary at Allen Hollow.,Delhi,2025-02-01,28.6139,77.209,Open,,114,Open
+513,Robert was duped by a fake agent in Morgan Alley.,Ahmedabad,2024-09-02,23.0225,72.5714,Closed,2024-09-12,10,Closed
+514,Rachel was attacked with a knife at Dustin Bridge.,Mumbai,2024-06-14,19.076,72.8777,Closed,2024-08-18,65,Closed
+515,Matthew was robbed at gunpoint near Rita Springs.,Ahmedabad,2024-09-05,23.0225,72.5714,Open,,263,Open
+516,Michael saw a group vandalizing vehicles near Cross Ford.,Nagpur,2024-07-07,21.1458,79.0882,Open,,323,Open
+517,Dennis experienced a burglary at Evan Shores.,Chennai,2024-05-12,13.0827,80.2707,Open,,379,Open
+518,Courtney suffered a wallet theft at Cruz Views.,Pune,2025-03-21,18.5204,73.8567,Closed,2025-04-12,22,Closed
+519,Susan saw a group vandalizing vehicles near Robert Heights.,Pune,2025-03-03,18.5204,73.8567,Closed,2025-06-01,90,Closed
+520,Michael was robbed at gunpoint near Taylor Glen.,Ahmedabad,2025-04-02,23.0225,72.5714,Open,,54,Open
+521,Jonathan was duped by a fake agent in Blanchard Street.,Nagpur,2024-05-17,21.1458,79.0882,Closed,2024-08-07,82,Closed
+522,Kirsten reported a theft in Jesse Vista.,Nagpur,2025-03-23,21.1458,79.0882,Open,,64,Open
+523,Roy reported cyber fraud involving Lindsay Ford.,Ahmedabad,2025-03-20,23.0225,72.5714,Closed,2025-05-09,50,Closed
+524,Erika faced an assault incident around Green Inlet.,Hyderabad,2024-11-10,17.385,78.4867,Closed,2024-11-24,14,Closed
+525,Patricia reported a theft in Brian Wells.,Mumbai,2025-03-24,19.076,72.8777,Closed,2025-05-27,64,Closed
+526,Kathleen saw a group vandalizing vehicles near Tracy Prairie.,Hyderabad,2024-06-21,17.385,78.4867,Open,,339,Open
+527,Caroline experienced a burglary at Gonzales Street.,Mumbai,2024-09-19,19.076,72.8777,Open,,249,Open
+528,Jesse saw a group vandalizing vehicles near Michael Stream.,Ahmedabad,2025-03-27,23.0225,72.5714,Open,,60,Open
+529,Jon faced an assault incident around Patricia Corners.,Delhi,2024-05-26,28.6139,77.209,Open,,365,Open
+530,Breanna had their phone snatched on Jennifer Ramp.,Pune,2024-10-24,18.5204,73.8567,Closed,2024-12-10,47,Closed
+531,Dakota had their phone snatched on Kim Mission.,Bangalore,2025-04-22,12.9716,77.5946,Closed,2025-05-21,29,Closed
+532,Justin was duped by a fake agent in Robert Alley.,Pune,2024-08-28,18.5204,73.8567,Closed,2024-11-12,76,Closed
+533,Matthew reported a theft in Zimmerman Light.,Pune,2024-06-12,18.5204,73.8567,Closed,2024-07-18,36,Closed
+534,Tanya was attacked with a knife at Adrian Hills.,Ahmedabad,2024-05-31,23.0225,72.5714,Closed,2024-07-22,52,Closed
+535,Matthew was robbed at gunpoint near Derek Ridges.,Bangalore,2025-03-21,12.9716,77.5946,Closed,2025-06-05,76,Closed
+536,Diane experienced a burglary at Dean Pine.,Delhi,2025-02-13,28.6139,77.209,Closed,2025-02-20,7,Closed
+537,Travis reported cyber fraud involving Shannon Cliffs.,Delhi,2024-10-15,28.6139,77.209,Closed,2024-11-13,29,Closed
+538,William experienced a burglary at Rose Glens.,Hyderabad,2025-04-17,17.385,78.4867,Open,,39,Open
+539,David was attacked with a knife at Heather Station.,Mumbai,2024-11-28,19.076,72.8777,Open,,179,Open
+540,Stephanie saw a group vandalizing vehicles near Steven Overpass.,Jaipur,2024-06-28,26.9124,75.7873,Open,,332,Open
+541,Aaron faced an assault incident around Perkins Skyway.,Mumbai,2024-10-05,19.076,72.8777,Closed,2024-10-16,11,Closed
+542,Shelby was attacked with a knife at Cox Avenue.,Nagpur,2025-01-18,21.1458,79.0882,Closed,2025-02-20,33,Closed
+543,Cody reported a theft in Larry Keys.,Nagpur,2024-11-13,21.1458,79.0882,Open,,194,Open
+544,Karen was duped by a fake agent in Walters Manors.,Chennai,2024-05-18,13.0827,80.2707,Closed,2024-05-24,6,Closed
+545,Adam had their phone snatched on Robinson Road.,Chennai,2025-04-04,13.0827,80.2707,Closed,2025-06-22,79,Closed
+546,Lisa faced an assault incident around Michael Cliffs.,Ahmedabad,2025-01-19,23.0225,72.5714,Open,,127,Open
+547,Maria had their phone snatched on Hale Mountain.,Nagpur,2025-01-31,21.1458,79.0882,Open,,115,Open
+548,Barbara reported cyber fraud involving Johnston Pines.,Ahmedabad,2024-06-08,23.0225,72.5714,Closed,2024-07-10,32,Closed
+549,Juan reported cyber fraud involving Walker Meadows.,Ahmedabad,2025-01-29,23.0225,72.5714,Closed,2025-03-21,51,Closed
+550,Eric suffered a wallet theft at Valerie Alley.,Delhi,2024-10-25,28.6139,77.209,Closed,2025-01-08,75,Closed
+551,Linda saw a group vandalizing vehicles near Wright Park.,Bangalore,2024-09-07,12.9716,77.5946,Closed,2024-11-04,58,Closed
+552,Heather reported a theft in Don Harbor.,Nagpur,2024-09-21,21.1458,79.0882,Closed,2024-12-17,87,Closed
+553,Jessica experienced a burglary at Rowe Canyon.,Ahmedabad,2025-03-22,23.0225,72.5714,Closed,2025-04-17,26,Closed
+554,Alan reported cyber fraud involving Yvonne Trail.,Chennai,2025-03-15,13.0827,80.2707,Closed,2025-04-30,46,Closed
+555,Steve reported cyber fraud involving James Cliffs.,Mumbai,2024-11-18,19.076,72.8777,Closed,2024-12-17,29,Closed
+556,Veronica reported cyber fraud involving Mcdonald Forest.,Ahmedabad,2024-08-27,23.0225,72.5714,Open,,272,Open
+557,Jessica was duped by a fake agent in Green Glens.,Jaipur,2025-04-19,26.9124,75.7873,Open,,37,Open
+558,Robin reported a theft in Newton Brooks.,Ahmedabad,2025-01-15,23.0225,72.5714,Open,,131,Open
+559,Natasha was duped by a fake agent in Lindsey Walk.,Jaipur,2025-03-06,26.9124,75.7873,Closed,2025-03-10,4,Closed
+560,Scott experienced a burglary at Carol Road.,Chennai,2025-02-01,13.0827,80.2707,Closed,2025-04-23,81,Closed
+561,Benjamin reported cyber fraud involving Steven Courts.,Chennai,2024-07-20,13.0827,80.2707,Closed,2024-08-02,13,Closed
+562,Nathaniel was robbed at gunpoint near Hall Plaza.,Bangalore,2024-10-19,12.9716,77.5946,Open,,219,Open
+563,Stephanie reported cyber fraud involving David Parkways.,Mumbai,2024-05-08,19.076,72.8777,Open,,383,Open
+564,Christine faced an assault incident around Turner Manor.,Delhi,2024-12-24,28.6139,77.209,Open,,153,Open
+565,Michael faced an assault incident around Keith Fort.,Delhi,2024-06-30,28.6139,77.209,Open,,330,Open
+566,Vanessa reported cyber fraud involving Gray Park.,Ahmedabad,2024-12-21,23.0225,72.5714,Closed,2025-01-29,39,Closed
+567,Deborah faced an assault incident around Joseph Center.,Jaipur,2024-12-18,26.9124,75.7873,Open,,159,Open
+568,James had their phone snatched on Robert Junctions.,Hyderabad,2024-05-03,17.385,78.4867,Open,,388,Open
+569,Edwin faced an assault incident around Rachel Cove.,Jaipur,2024-05-08,26.9124,75.7873,Closed,2024-05-23,15,Closed
+570,Rebecca was attacked with a knife at Crawford Road.,Bangalore,2025-02-01,12.9716,77.5946,Open,,114,Open
+571,Brianna was robbed at gunpoint near Jeremy Creek.,Pune,2024-11-26,18.5204,73.8567,Closed,2024-12-25,29,Closed
+572,Cassandra suffered a wallet theft at Porter Keys.,Bangalore,2024-12-16,12.9716,77.5946,Closed,2025-01-14,29,Closed
+573,Elizabeth faced an assault incident around Gibson Mill.,Delhi,2024-10-31,28.6139,77.209,Open,,207,Open
+574,David was attacked with a knife at Cody Lakes.,Hyderabad,2024-07-02,17.385,78.4867,Closed,2024-09-15,75,Closed
+575,Robert reported cyber fraud involving Walker Plains.,Pune,2024-06-15,18.5204,73.8567,Closed,2024-07-17,32,Closed
+576,Darrell was duped by a fake agent in Crystal Parkways.,Hyderabad,2025-01-31,17.385,78.4867,Closed,2025-02-02,2,Closed
+577,Allison had their phone snatched on Jeffery Flats.,Nagpur,2024-10-08,21.1458,79.0882,Open,,230,Open
+578,Logan saw a group vandalizing vehicles near Hamilton Island.,Nagpur,2024-11-19,21.1458,79.0882,Closed,2025-01-05,47,Closed
+579,Allen saw a group vandalizing vehicles near Megan Corner.,Hyderabad,2025-01-16,17.385,78.4867,Open,,130,Open
+580,Andrea reported cyber fraud involving Ward Mountains.,Kolkata,2024-05-11,22.5726,88.3639,Open,,380,Open
+581,Wyatt reported cyber fraud involving Stein Loaf.,Nagpur,2025-02-24,21.1458,79.0882,Open,,91,Open
+582,Thomas reported cyber fraud involving Valenzuela Lights.,Ahmedabad,2024-05-13,23.0225,72.5714,Closed,2024-07-30,78,Closed
+583,Lauren reported a theft in Allison Crest.,Hyderabad,2024-08-29,17.385,78.4867,Open,,270,Open
+584,Bobby reported a theft in Daniel Mountains.,Ahmedabad,2024-07-08,23.0225,72.5714,Open,,322,Open
+585,Susan had their phone snatched on Bell Extensions.,Nagpur,2024-12-11,21.1458,79.0882,Closed,2025-03-05,84,Closed
+586,Crystal saw a group vandalizing vehicles near Crystal Radial.,Mumbai,2025-02-06,19.076,72.8777,Open,,109,Open
+587,Amanda reported a theft in David Overpass.,Hyderabad,2024-08-16,17.385,78.4867,Open,,283,Open
+588,Jeffery was robbed at gunpoint near Kyle Plains.,Mumbai,2024-07-10,19.076,72.8777,Open,,320,Open
+589,Joshua saw a group vandalizing vehicles near Daniels Pass.,Bangalore,2024-08-04,12.9716,77.5946,Open,,295,Open
+590,Seth suffered a wallet theft at Garcia Rapids.,Pune,2025-04-13,18.5204,73.8567,Open,,43,Open
+591,Stacy reported cyber fraud involving Peters Trail.,Hyderabad,2025-02-14,17.385,78.4867,Open,,101,Open
+592,Timothy was duped by a fake agent in Mcdonald Lock.,Chennai,2025-02-09,13.0827,80.2707,Closed,2025-03-03,22,Closed
+593,Kimberly reported a theft in Brad Isle.,Hyderabad,2025-01-28,17.385,78.4867,Open,,118,Open
+594,Amanda suffered a wallet theft at Osborne Road.,Jaipur,2025-04-28,26.9124,75.7873,Open,,28,Open
+595,Stephanie faced an assault incident around Linda Center.,Delhi,2024-08-29,28.6139,77.209,Closed,2024-11-12,75,Closed
+596,Angel experienced a burglary at Dana Extensions.,Kolkata,2024-08-04,22.5726,88.3639,Open,,295,Open
+597,Shannon had their phone snatched on Allen Mews.,Chennai,2025-01-07,13.0827,80.2707,Closed,2025-02-03,27,Closed
+598,Jessica suffered a wallet theft at Devin Groves.,Pune,2024-09-14,18.5204,73.8567,Open,,254,Open
+599,Robert was duped by a fake agent in Arias Mission.,Bangalore,2024-08-25,12.9716,77.5946,Open,,274,Open
+600,Chase was attacked with a knife at Johnathan Road.,Pune,2024-09-07,18.5204,73.8567,Open,,261,Open
+601,Derrick was robbed at gunpoint near Samantha Keys.,Delhi,2024-09-12,28.6139,77.209,Open,,256,Open
+602,Gabrielle suffered a wallet theft at Luis Forge.,Bangalore,2024-07-09,12.9716,77.5946,Open,,321,Open
+603,Denise reported a theft in Thomas Radial.,Pune,2025-04-22,18.5204,73.8567,Open,,34,Open
+604,Angela saw a group vandalizing vehicles near King Oval.,Jaipur,2025-04-19,26.9124,75.7873,Open,,37,Open
+605,Kristina was duped by a fake agent in Shannon Isle.,Nagpur,2024-07-11,21.1458,79.0882,Open,,319,Open
+606,Dana experienced a burglary at Shannon Branch.,Ahmedabad,2024-06-28,23.0225,72.5714,Open,,332,Open
+607,Lori was duped by a fake agent in Johnny Extensions.,Kolkata,2024-08-10,22.5726,88.3639,Open,,289,Open
+608,Tammy was attacked with a knife at Audrey Cape.,Chennai,2024-09-10,13.0827,80.2707,Open,,258,Open
+609,Oscar reported a theft in Anthony Oval.,Mumbai,2024-07-22,19.076,72.8777,Closed,2024-09-27,67,Closed
+610,Amy faced an assault incident around Donna Harbor.,Ahmedabad,2024-05-15,23.0225,72.5714,Closed,2024-08-04,81,Closed
+611,Robert reported cyber fraud involving Karen Hollow.,Mumbai,2025-02-21,19.076,72.8777,Open,,94,Open
+612,Sydney experienced a burglary at Andrea Park.,Delhi,2024-08-15,28.6139,77.209,Closed,2024-10-10,56,Closed
+613,James suffered a wallet theft at Ball Course.,Jaipur,2024-05-29,26.9124,75.7873,Closed,2024-06-19,21,Closed
+614,David had their phone snatched on Steele Roads.,Ahmedabad,2025-03-12,23.0225,72.5714,Open,,75,Open
+615,Arthur reported a theft in Kimberly Pass.,Hyderabad,2025-04-06,17.385,78.4867,Closed,2025-05-23,47,Closed
+616,Ashlee saw a group vandalizing vehicles near Wright Square.,Hyderabad,2024-05-07,17.385,78.4867,Closed,2024-07-26,80,Closed
+617,James was robbed at gunpoint near Montgomery Cliffs.,Hyderabad,2025-03-05,17.385,78.4867,Open,,82,Open
+618,Teresa reported cyber fraud involving Cooper Lock.,Mumbai,2025-01-29,19.076,72.8777,Open,,117,Open
+619,Jeremy reported a theft in Andrade Islands.,Jaipur,2024-12-13,26.9124,75.7873,Closed,2025-02-10,59,Closed
+620,Karen reported a theft in Miller Divide.,Ahmedabad,2024-08-18,23.0225,72.5714,Closed,2024-11-10,84,Closed
+621,John faced an assault incident around Nathan Mill.,Jaipur,2024-07-04,26.9124,75.7873,Open,,326,Open
+622,Brandon was robbed at gunpoint near Sara Falls.,Delhi,2024-05-13,28.6139,77.209,Open,,378,Open
+623,Marc had their phone snatched on Coleman Island.,Hyderabad,2024-07-15,17.385,78.4867,Open,,315,Open
+624,Amber faced an assault incident around Wolfe Ports.,Nagpur,2025-01-29,21.1458,79.0882,Open,,117,Open
+625,Catherine reported a theft in Jones Cove.,Jaipur,2025-02-25,26.9124,75.7873,Closed,2025-03-03,6,Closed
+626,Justin had their phone snatched on Johnson Locks.,Kolkata,2024-10-18,22.5726,88.3639,Open,,220,Open
+627,Diana had their phone snatched on James Port.,Chennai,2024-06-06,13.0827,80.2707,Open,,354,Open
+628,Joseph experienced a burglary at Stephanie Ports.,Jaipur,2024-05-24,26.9124,75.7873,Closed,2024-06-12,19,Closed
+629,James faced an assault incident around Cole Flat.,Nagpur,2024-05-31,21.1458,79.0882,Open,,360,Open
+630,Logan reported cyber fraud involving Wesley Fords.,Delhi,2025-01-11,28.6139,77.209,Open,,135,Open
+631,Crystal was attacked with a knife at Christopher Fields.,Nagpur,2024-11-27,21.1458,79.0882,Closed,2025-01-23,57,Closed
+632,Rachel reported cyber fraud involving Cole Crest.,Kolkata,2025-02-23,22.5726,88.3639,Closed,2025-05-03,69,Closed
+633,Willie reported a theft in Stewart Shore.,Nagpur,2024-09-05,21.1458,79.0882,Closed,2024-09-08,3,Closed
+634,Holly was attacked with a knife at Potter Meadows.,Delhi,2024-07-09,28.6139,77.209,Closed,2024-07-10,1,Closed
+635,David experienced a burglary at Ryan Spur.,Delhi,2024-10-03,28.6139,77.209,Open,,235,Open
+636,Jorge faced an assault incident around David Corners.,Jaipur,2024-12-13,26.9124,75.7873,Open,,164,Open
+637,Donald was robbed at gunpoint near Lawson Throughway.,Hyderabad,2024-09-27,17.385,78.4867,Closed,2024-11-24,58,Closed
+638,Tammy reported cyber fraud involving Robert Locks.,Nagpur,2025-01-27,21.1458,79.0882,Open,,119,Open
+639,Andrea was attacked with a knife at Juan Course.,Delhi,2025-01-11,28.6139,77.209,Open,,135,Open
+640,Mark saw a group vandalizing vehicles near Salas Squares.,Mumbai,2024-07-30,19.076,72.8777,Open,,300,Open
+641,James reported a theft in Emily Mill.,Pune,2024-05-16,18.5204,73.8567,Open,,375,Open
+642,David suffered a wallet theft at Boyd Radial.,Ahmedabad,2024-05-18,23.0225,72.5714,Open,,373,Open
+643,Natasha saw a group vandalizing vehicles near Cordova Ramp.,Hyderabad,2025-03-13,17.385,78.4867,Open,,74,Open
+644,Justin reported a theft in Edwards Avenue.,Chennai,2024-10-16,13.0827,80.2707,Open,,222,Open
+645,Martha saw a group vandalizing vehicles near Kristin Roads.,Ahmedabad,2025-03-16,23.0225,72.5714,Open,,71,Open
+646,Nicole faced an assault incident around Isaac Spur.,Jaipur,2024-11-23,26.9124,75.7873,Closed,2024-12-31,38,Closed
+647,Angie saw a group vandalizing vehicles near Nelson Turnpike.,Delhi,2025-04-27,28.6139,77.209,Closed,2025-05-12,15,Closed
+648,Natasha suffered a wallet theft at Cohen Village.,Bangalore,2024-06-11,12.9716,77.5946,Closed,2024-07-15,34,Closed
+649,Sarah was robbed at gunpoint near Bennett Overpass.,Delhi,2025-02-22,28.6139,77.209,Closed,2025-04-24,61,Closed
+650,Andrea was duped by a fake agent in Christy Ways.,Ahmedabad,2024-10-29,23.0225,72.5714,Open,,209,Open
+651,Bethany reported a theft in Martinez Tunnel.,Mumbai,2024-06-09,19.076,72.8777,Open,,351,Open
+652,Shannon suffered a wallet theft at Lewis Junction.,Ahmedabad,2025-04-11,23.0225,72.5714,Closed,2025-05-16,35,Closed
+653,Erica reported a theft in Martinez Parkway.,Pune,2025-03-08,18.5204,73.8567,Closed,2025-05-11,64,Closed
+654,John faced an assault incident around Hernandez Prairie.,Hyderabad,2024-09-04,17.385,78.4867,Closed,2024-09-29,25,Closed
+655,Samantha reported a theft in Peter Burg.,Nagpur,2025-01-12,21.1458,79.0882,Open,,134,Open
+656,Amy reported cyber fraud involving Lisa Common.,Nagpur,2024-12-03,21.1458,79.0882,Open,,174,Open
+657,Paul faced an assault incident around Garcia Road.,Chennai,2024-11-19,13.0827,80.2707,Open,,188,Open
+658,Yesenia experienced a burglary at Barbara Inlet.,Kolkata,2024-11-03,22.5726,88.3639,Open,,204,Open
+659,Kristen faced an assault incident around Julie Drive.,Mumbai,2025-04-12,19.076,72.8777,Closed,2025-05-06,24,Closed
+660,Rachel reported cyber fraud involving Kathryn Expressway.,Kolkata,2024-05-31,22.5726,88.3639,Closed,2024-06-12,12,Closed
+661,Morgan saw a group vandalizing vehicles near Kim Estates.,Ahmedabad,2024-10-25,23.0225,72.5714,Open,,213,Open
+662,Janice was duped by a fake agent in Valerie Vista.,Chennai,2024-06-06,13.0827,80.2707,Closed,2024-06-24,18,Closed
+663,Ann reported a theft in Daniel Orchard.,Pune,2025-04-28,18.5204,73.8567,Closed,2025-05-13,15,Closed
+664,Melissa had their phone snatched on Todd Mission.,Kolkata,2024-12-29,22.5726,88.3639,Open,,148,Open
+665,Jennifer suffered a wallet theft at Andrews Branch.,Mumbai,2025-01-02,19.076,72.8777,Open,,144,Open
+666,Sergio was duped by a fake agent in Powers Row.,Jaipur,2024-07-25,26.9124,75.7873,Open,,305,Open
+667,Anthony suffered a wallet theft at Cindy Valleys.,Hyderabad,2024-05-31,17.385,78.4867,Open,,360,Open
+668,Cassidy was duped by a fake agent in Roberts Flats.,Mumbai,2024-08-30,19.076,72.8777,Open,,269,Open
+669,Patrick experienced a burglary at Tiffany Dam.,Pune,2024-12-11,18.5204,73.8567,Open,,166,Open
+670,Laura experienced a burglary at Hancock Fort.,Mumbai,2024-10-26,19.076,72.8777,Open,,212,Open
+671,William experienced a burglary at Harris Spurs.,Bangalore,2025-04-19,12.9716,77.5946,Open,,37,Open
+672,Brooke suffered a wallet theft at Fernandez Street.,Nagpur,2024-10-18,21.1458,79.0882,Closed,2025-01-06,80,Closed
+673,Timothy reported a theft in Daniel Camp.,Pune,2024-08-18,18.5204,73.8567,Open,,281,Open
+674,Jessica reported a theft in Conley Mount.,Pune,2025-02-18,18.5204,73.8567,Closed,2025-03-17,27,Closed
+675,Kevin reported a theft in Sanchez Extensions.,Mumbai,2024-12-01,19.076,72.8777,Open,,176,Open
+676,Richard was attacked with a knife at Maria Plaza.,Hyderabad,2025-02-03,17.385,78.4867,Closed,2025-04-16,72,Closed
+677,Linda was robbed at gunpoint near Snyder Forge.,Kolkata,2024-11-18,22.5726,88.3639,Open,,189,Open
+678,Paul saw a group vandalizing vehicles near Cunningham Run.,Chennai,2024-08-10,13.0827,80.2707,Open,,289,Open
+679,Maria experienced a burglary at Howard Grove.,Kolkata,2025-01-01,22.5726,88.3639,Closed,2025-03-02,60,Closed
+680,Deborah was duped by a fake agent in Mays Forge.,Pune,2024-12-15,18.5204,73.8567,Closed,2025-01-30,46,Closed
+681,Christina was duped by a fake agent in Brandt Drive.,Hyderabad,2025-01-27,17.385,78.4867,Closed,2025-04-26,89,Closed
+682,Veronica reported cyber fraud involving Michael Islands.,Delhi,2024-05-16,28.6139,77.209,Open,,375,Open
+683,Marcia reported cyber fraud involving Randy Road.,Chennai,2025-01-05,13.0827,80.2707,Open,,141,Open
+684,Jeremiah reported a theft in Bradley Brooks.,Hyderabad,2024-12-01,17.385,78.4867,Closed,2024-12-18,17,Closed
+685,Mark saw a group vandalizing vehicles near Edward Forges.,Chennai,2024-07-28,13.0827,80.2707,Closed,2024-09-19,53,Closed
+686,Jason was attacked with a knife at Regina Centers.,Jaipur,2024-08-24,26.9124,75.7873,Closed,2024-09-01,8,Closed
+687,Jennifer had their phone snatched on Andrade Dale.,Ahmedabad,2024-05-27,23.0225,72.5714,Closed,2024-08-14,79,Closed
+688,Heather experienced a burglary at Ronald Dale.,Pune,2024-10-13,18.5204,73.8567,Open,,225,Open
+689,Jennifer experienced a burglary at Mack Isle.,Kolkata,2024-11-16,22.5726,88.3639,Closed,2024-12-13,27,Closed
+690,Christine reported cyber fraud involving Shaw View.,Pune,2025-02-26,18.5204,73.8567,Open,,89,Open
+691,Shawn had their phone snatched on Jonathan Plains.,Chennai,2024-08-11,13.0827,80.2707,Open,,288,Open
+692,Abigail saw a group vandalizing vehicles near Julie Squares.,Mumbai,2024-11-29,19.076,72.8777,Open,,178,Open
+693,George faced an assault incident around Adams Extension.,Chennai,2024-05-26,13.0827,80.2707,Closed,2024-07-11,46,Closed
+694,Robert was robbed at gunpoint near Wood Causeway.,Kolkata,2025-01-03,22.5726,88.3639,Open,,143,Open
+695,Debra reported cyber fraud involving Tonya Plains.,Chennai,2024-11-12,13.0827,80.2707,Open,,195,Open
+696,Paul was attacked with a knife at Kevin Circle.,Delhi,2024-06-28,28.6139,77.209,Closed,2024-08-17,50,Closed
+697,Sonya reported cyber fraud involving Mckee Mountains.,Bangalore,2024-10-27,12.9716,77.5946,Open,,211,Open
+698,Jennifer experienced a burglary at Wright Station.,Hyderabad,2024-09-07,17.385,78.4867,Closed,2024-11-17,71,Closed
+699,Matthew was attacked with a knife at Benjamin Row.,Delhi,2024-11-06,28.6139,77.209,Open,,201,Open
+700,Devon faced an assault incident around Stewart Dam.,Nagpur,2024-08-09,21.1458,79.0882,Open,,290,Open
+701,Karen reported a theft in Regina Corners.,Mumbai,2024-06-18,19.076,72.8777,Closed,2024-06-21,3,Closed
+702,Kelly was robbed at gunpoint near Barker Village.,Nagpur,2024-08-25,21.1458,79.0882,Open,,274,Open
+703,Lisa saw a group vandalizing vehicles near David Viaduct.,Pune,2024-08-13,18.5204,73.8567,Open,,286,Open
+704,Jennifer was duped by a fake agent in Clarence Spring.,Jaipur,2025-04-27,26.9124,75.7873,Open,,29,Open
+705,Keith suffered a wallet theft at Randy Parkway.,Mumbai,2024-08-19,19.076,72.8777,Open,,280,Open
+706,Troy was attacked with a knife at Steven Plains.,Hyderabad,2024-11-08,17.385,78.4867,Closed,2025-01-11,64,Closed
+707,Michelle reported cyber fraud involving Cooper Pines.,Hyderabad,2024-05-16,17.385,78.4867,Open,,375,Open
+708,Eric faced an assault incident around Bryan Ford.,Hyderabad,2024-06-27,17.385,78.4867,Closed,2024-08-10,44,Closed
+709,Kevin reported a theft in Teresa Burg.,Chennai,2024-10-16,13.0827,80.2707,Open,,222,Open
+710,Gregory was attacked with a knife at Fuller Light.,Delhi,2024-07-01,28.6139,77.209,Closed,2024-08-23,53,Closed
+711,Ashley faced an assault incident around Nicholas Canyon.,Nagpur,2024-09-06,21.1458,79.0882,Closed,2024-09-30,24,Closed
+712,Susan reported a theft in Hooper Turnpike.,Delhi,2025-02-06,28.6139,77.209,Closed,2025-04-07,60,Closed
+713,Donna suffered a wallet theft at Jennifer Cliffs.,Bangalore,2025-04-01,12.9716,77.5946,Open,,55,Open
+714,Keith suffered a wallet theft at Montgomery Way.,Mumbai,2024-12-12,19.076,72.8777,Open,,165,Open
+715,Jerry suffered a wallet theft at Jeffery Highway.,Chennai,2024-12-24,13.0827,80.2707,Open,,153,Open
+716,David reported cyber fraud involving Russell Field.,Mumbai,2025-04-17,19.076,72.8777,Closed,2025-04-20,3,Closed
+717,Kayla saw a group vandalizing vehicles near Watts Well.,Jaipur,2024-05-16,26.9124,75.7873,Closed,2024-06-05,20,Closed
+718,Edward experienced a burglary at Sarah Forks.,Pune,2024-07-03,18.5204,73.8567,Closed,2024-08-18,46,Closed
+719,David reported a theft in Toni Valley.,Mumbai,2025-02-06,19.076,72.8777,Open,,109,Open
+720,Christopher faced an assault incident around Rodriguez Station.,Bangalore,2024-09-14,12.9716,77.5946,Closed,2024-09-29,15,Closed
+721,Courtney saw a group vandalizing vehicles near Eric Valleys.,Ahmedabad,2024-05-30,23.0225,72.5714,Closed,2024-06-24,25,Closed
+722,Daniel was robbed at gunpoint near Robert Parks.,Bangalore,2024-10-09,12.9716,77.5946,Open,,229,Open
+723,Cheyenne was duped by a fake agent in Allen Brooks.,Jaipur,2024-05-01,26.9124,75.7873,Open,,390,Open
+724,James was robbed at gunpoint near Weber Isle.,Chennai,2024-09-26,13.0827,80.2707,Closed,2024-12-13,78,Closed
+725,Jamie had their phone snatched on Moore Neck.,Delhi,2024-07-01,28.6139,77.209,Closed,2024-09-10,71,Closed
+726,Rachel had their phone snatched on Denise Forges.,Bangalore,2024-10-05,12.9716,77.5946,Closed,2024-10-22,17,Closed
+727,Christopher reported cyber fraud involving Johnson Forest.,Nagpur,2024-10-30,21.1458,79.0882,Open,,208,Open
+728,Mathew experienced a burglary at Gary Neck.,Bangalore,2025-03-11,12.9716,77.5946,Closed,2025-06-03,84,Closed
+729,Austin was robbed at gunpoint near Matthews Springs.,Pune,2024-11-20,18.5204,73.8567,Open,,187,Open
+730,Susan was duped by a fake agent in Alexis Crossroad.,Ahmedabad,2024-12-09,23.0225,72.5714,Open,,168,Open
+731,Andrea was attacked with a knife at Lozano Road.,Nagpur,2024-06-30,21.1458,79.0882,Open,,330,Open
+732,Christopher saw a group vandalizing vehicles near Gerald Crest.,Mumbai,2024-09-11,19.076,72.8777,Closed,2024-09-20,9,Closed
+733,Jacob saw a group vandalizing vehicles near Robert Mountain.,Jaipur,2025-03-14,26.9124,75.7873,Closed,2025-04-21,38,Closed
+734,Susan experienced a burglary at Carlos Loaf.,Kolkata,2024-08-29,22.5726,88.3639,Closed,2024-10-16,48,Closed
+735,Danielle was duped by a fake agent in Sweeney Spring.,Pune,2024-07-04,18.5204,73.8567,Open,,326,Open
+736,Chad was duped by a fake agent in Stephens Springs.,Delhi,2024-12-07,28.6139,77.209,Closed,2025-02-05,60,Closed
+737,Damon suffered a wallet theft at Donald Forest.,Delhi,2024-09-18,28.6139,77.209,Open,,250,Open
+738,Henry experienced a burglary at Hebert Knolls.,Pune,2024-10-23,18.5204,73.8567,Closed,2024-12-25,63,Closed
+739,Michelle was duped by a fake agent in West Ridges.,Chennai,2024-09-09,13.0827,80.2707,Open,,259,Open
+740,Brady was duped by a fake agent in Cody Brooks.,Chennai,2024-06-01,13.0827,80.2707,Open,,359,Open
+741,Leonard reported cyber fraud involving Sandy Terrace.,Mumbai,2025-01-18,19.076,72.8777,Open,,128,Open
+742,Donna was duped by a fake agent in Thomas Prairie.,Pune,2025-01-14,18.5204,73.8567,Open,,132,Open
+743,Kimberly experienced a burglary at Michael Plaza.,Delhi,2024-10-15,28.6139,77.209,Closed,2025-01-09,86,Closed
+744,Roy faced an assault incident around Brittany Drive.,Nagpur,2025-04-04,21.1458,79.0882,Closed,2025-04-06,2,Closed
+745,Kathleen experienced a burglary at Jennifer Light.,Ahmedabad,2024-11-21,23.0225,72.5714,Open,,186,Open
+746,Maria was duped by a fake agent in Bowman Manor.,Pune,2025-04-18,18.5204,73.8567,Closed,2025-07-15,88,Closed
+747,Timothy had their phone snatched on Wesley Manor.,Pune,2024-09-02,18.5204,73.8567,Open,,266,Open
+748,Michael faced an assault incident around Walker Springs.,Mumbai,2025-04-18,19.076,72.8777,Closed,2025-06-29,72,Closed
+749,Sean saw a group vandalizing vehicles near Goodwin Walks.,Mumbai,2024-10-20,19.076,72.8777,Closed,2024-10-31,11,Closed
+750,Linda was duped by a fake agent in Hayley Glen.,Pune,2024-05-15,18.5204,73.8567,Closed,2024-07-18,64,Closed
+751,David experienced a burglary at Michael Walk.,Bangalore,2025-03-25,12.9716,77.5946,Open,,62,Open
+752,Billy experienced a burglary at Ayala Mills.,Jaipur,2024-06-02,26.9124,75.7873,Closed,2024-08-18,77,Closed
+753,Felicia reported a theft in Hickman Ports.,Nagpur,2024-11-02,21.1458,79.0882,Closed,2025-01-22,81,Closed
+754,Angela reported a theft in Allen Stream.,Kolkata,2024-12-14,22.5726,88.3639,Open,,163,Open
+755,Kimberly saw a group vandalizing vehicles near Bass Road.,Kolkata,2024-12-10,22.5726,88.3639,Open,,167,Open
+756,Matthew experienced a burglary at Johnson Harbors.,Jaipur,2025-04-03,26.9124,75.7873,Closed,2025-06-14,72,Closed
+757,Peter was attacked with a knife at Melissa Stravenue.,Hyderabad,2025-02-19,17.385,78.4867,Closed,2025-03-12,21,Closed
+758,Gregory reported a theft in Michele Motorway.,Jaipur,2024-10-02,26.9124,75.7873,Closed,2024-10-20,18,Closed
+759,Dana reported cyber fraud involving Samantha Terrace.,Nagpur,2024-05-11,21.1458,79.0882,Closed,2024-07-14,64,Closed
+760,Eric was attacked with a knife at Mitchell Green.,Jaipur,2025-02-12,26.9124,75.7873,Closed,2025-05-05,82,Closed
+761,Tonya was attacked with a knife at Robinson Valleys.,Chennai,2024-08-01,13.0827,80.2707,Open,,298,Open
+762,Erik was attacked with a knife at Kane Ranch.,Pune,2024-07-15,18.5204,73.8567,Open,,315,Open
+763,Devon suffered a wallet theft at Kurt Motorway.,Ahmedabad,2025-01-10,23.0225,72.5714,Open,,136,Open
+764,Alyssa faced an assault incident around Walker Club.,Chennai,2024-10-25,13.0827,80.2707,Closed,2024-12-02,38,Closed
+765,Jenna faced an assault incident around Marcus Canyon.,Ahmedabad,2024-09-05,23.0225,72.5714,Open,,263,Open
+766,Rebecca experienced a burglary at Sylvia Point.,Chennai,2024-06-30,13.0827,80.2707,Closed,2024-08-01,32,Closed
+767,Cynthia was attacked with a knife at Donald Rapids.,Hyderabad,2024-05-02,17.385,78.4867,Closed,2024-05-13,11,Closed
+768,Felicia reported a theft in Misty Ports.,Ahmedabad,2024-07-08,23.0225,72.5714,Closed,2024-08-22,45,Closed
+769,Gregory suffered a wallet theft at Atkins Walks.,Ahmedabad,2024-08-25,23.0225,72.5714,Open,,274,Open
+770,Victoria reported cyber fraud involving Justin Islands.,Bangalore,2025-04-23,12.9716,77.5946,Closed,2025-07-21,89,Closed
+771,Joel was robbed at gunpoint near Robinson Stream.,Chennai,2024-08-27,13.0827,80.2707,Open,,272,Open
+772,Rachel saw a group vandalizing vehicles near Bryan Fords.,Hyderabad,2025-03-07,17.385,78.4867,Closed,2025-04-09,33,Closed
+773,Tammy reported cyber fraud involving Allison Port.,Pune,2025-03-08,18.5204,73.8567,Open,,79,Open
+774,Richard suffered a wallet theft at Mcclain Lock.,Ahmedabad,2025-04-05,23.0225,72.5714,Open,,51,Open
+775,Nicholas was robbed at gunpoint near Jones Route.,Delhi,2024-05-27,28.6139,77.209,Closed,2024-07-07,41,Closed
+776,Renee reported cyber fraud involving Kelly Summit.,Hyderabad,2024-05-18,17.385,78.4867,Open,,373,Open
+777,Robert reported a theft in Daniel Squares.,Pune,2024-05-08,18.5204,73.8567,Open,,383,Open
+778,Joanne faced an assault incident around King Field.,Chennai,2025-01-24,13.0827,80.2707,Closed,2025-02-01,8,Closed
+779,Brian was duped by a fake agent in Susan Via.,Kolkata,2024-06-01,22.5726,88.3639,Closed,2024-06-12,11,Closed
+780,Steven faced an assault incident around Ramirez Station.,Ahmedabad,2025-03-05,23.0225,72.5714,Closed,2025-05-30,86,Closed
+781,Margaret was robbed at gunpoint near Scott Mission.,Kolkata,2024-08-30,22.5726,88.3639,Closed,2024-10-20,51,Closed
+782,Denise faced an assault incident around Moore Fork.,Ahmedabad,2024-07-13,23.0225,72.5714,Closed,2024-10-09,88,Closed
+783,Charles experienced a burglary at Cesar Trace.,Jaipur,2024-11-09,26.9124,75.7873,Open,,198,Open
+784,Diane suffered a wallet theft at Vargas Inlet.,Chennai,2024-08-29,13.0827,80.2707,Open,,270,Open
+785,Benjamin was attacked with a knife at Jordan Loaf.,Kolkata,2025-03-05,22.5726,88.3639,Open,,82,Open
+786,Debra suffered a wallet theft at Cervantes Plains.,Delhi,2025-04-11,28.6139,77.209,Closed,2025-05-22,41,Closed
+787,Thomas experienced a burglary at Schultz Avenue.,Pune,2024-10-21,18.5204,73.8567,Closed,2024-11-07,17,Closed
+788,Courtney saw a group vandalizing vehicles near Kimberly Views.,Pune,2024-12-12,18.5204,73.8567,Open,,165,Open
+789,Brian was robbed at gunpoint near Henry Vista.,Nagpur,2025-04-15,21.1458,79.0882,Open,,41,Open
+790,Collin suffered a wallet theft at Pamela Ford.,Jaipur,2024-08-24,26.9124,75.7873,Closed,2024-11-08,76,Closed
+791,Robert saw a group vandalizing vehicles near Jacob Divide.,Ahmedabad,2025-01-22,23.0225,72.5714,Open,,124,Open
+792,David faced an assault incident around Justin Points.,Kolkata,2025-02-21,22.5726,88.3639,Closed,2025-04-08,46,Closed
+793,Steven experienced a burglary at Donovan Port.,Nagpur,2024-09-23,21.1458,79.0882,Closed,2024-10-25,32,Closed
+794,Michael reported cyber fraud involving Palmer Path.,Hyderabad,2024-06-08,17.385,78.4867,Closed,2024-08-26,79,Closed
+795,Ashley was duped by a fake agent in Carrillo Field.,Mumbai,2024-10-13,19.076,72.8777,Open,,225,Open
+796,Jeanne faced an assault incident around Castaneda Views.,Hyderabad,2024-08-06,17.385,78.4867,Closed,2024-10-25,80,Closed
+797,Leonard experienced a burglary at Nathan Parkway.,Delhi,2024-12-15,28.6139,77.209,Closed,2025-02-07,54,Closed
+798,Morgan experienced a burglary at Ryan Lane.,Pune,2024-10-03,18.5204,73.8567,Closed,2024-12-28,86,Closed
+799,Steven saw a group vandalizing vehicles near Kimberly Springs.,Pune,2024-10-08,18.5204,73.8567,Closed,2024-10-28,20,Closed
+800,Sheri reported cyber fraud involving John Club.,Mumbai,2024-07-11,19.076,72.8777,Closed,2024-08-13,33,Closed
+801,Hunter faced an assault incident around Chavez Junctions.,Bangalore,2024-07-27,12.9716,77.5946,Closed,2024-10-09,74,Closed
+802,David experienced a burglary at Dean Corners.,Nagpur,2024-07-07,21.1458,79.0882,Open,,323,Open
+803,Brian faced an assault incident around Cheryl Land.,Pune,2024-08-02,18.5204,73.8567,Closed,2024-09-11,40,Closed
+804,Stephanie experienced a burglary at West Ways.,Nagpur,2024-10-28,21.1458,79.0882,Closed,2024-11-29,32,Closed
+805,Ashley was duped by a fake agent in Cheryl Terrace.,Bangalore,2024-09-23,12.9716,77.5946,Open,,245,Open
+806,Tina faced an assault incident around Rebecca Throughway.,Nagpur,2024-12-29,21.1458,79.0882,Closed,2024-12-31,2,Closed
+807,Matthew reported cyber fraud involving Hoover Path.,Pune,2024-05-20,18.5204,73.8567,Closed,2024-06-22,33,Closed
+808,Nicole was duped by a fake agent in Mia Brooks.,Kolkata,2024-12-15,22.5726,88.3639,Closed,2025-03-02,77,Closed
+809,Cody was attacked with a knife at David Curve.,Hyderabad,2024-11-27,17.385,78.4867,Open,,180,Open
+810,Bryan reported a theft in Allison Curve.,Kolkata,2025-01-24,22.5726,88.3639,Open,,122,Open
+811,Julie saw a group vandalizing vehicles near Simmons Garden.,Mumbai,2024-06-23,19.076,72.8777,Closed,2024-07-23,30,Closed
+812,Perry was robbed at gunpoint near Lopez Rapids.,Hyderabad,2024-10-16,17.385,78.4867,Closed,2024-11-18,33,Closed
+813,Patrick reported cyber fraud involving Burke Vista.,Hyderabad,2025-03-17,17.385,78.4867,Open,,70,Open
+814,Erin had their phone snatched on Paul Isle.,Nagpur,2024-12-16,21.1458,79.0882,Closed,2025-03-03,77,Closed
+815,Julia suffered a wallet theft at Michael Circles.,Hyderabad,2024-12-10,17.385,78.4867,Closed,2025-01-05,26,Closed
+816,Michael had their phone snatched on Patrick Corners.,Jaipur,2024-05-17,26.9124,75.7873,Closed,2024-06-08,22,Closed
+817,Chris was attacked with a knife at Herman Cape.,Nagpur,2024-05-25,21.1458,79.0882,Closed,2024-07-30,66,Closed
+818,Natalie reported cyber fraud involving Sharon Causeway.,Pune,2024-09-15,18.5204,73.8567,Open,,253,Open
+819,Lori saw a group vandalizing vehicles near Michael Centers.,Pune,2024-09-26,18.5204,73.8567,Open,,242,Open
+820,Corey saw a group vandalizing vehicles near Khan Meadow.,Kolkata,2025-03-27,22.5726,88.3639,Open,,60,Open
+821,Anthony experienced a burglary at Paul Parks.,Delhi,2024-06-24,28.6139,77.209,Closed,2024-08-01,38,Closed
+822,Bradley was attacked with a knife at Johnson Coves.,Chennai,2025-04-24,13.0827,80.2707,Open,,32,Open
+823,Christina was duped by a fake agent in David Road.,Chennai,2024-08-09,13.0827,80.2707,Open,,290,Open
+824,Erin was attacked with a knife at Lester Junction.,Nagpur,2025-02-19,21.1458,79.0882,Open,,96,Open
+825,Melanie faced an assault incident around Randy Union.,Nagpur,2024-08-25,21.1458,79.0882,Closed,2024-11-23,90,Closed
+826,Alfred suffered a wallet theft at Campbell Light.,Nagpur,2024-09-26,21.1458,79.0882,Closed,2024-11-11,46,Closed
+827,Jennifer was duped by a fake agent in Patty Mews.,Delhi,2024-06-01,28.6139,77.209,Open,,359,Open
+828,Amber had their phone snatched on Long Garden.,Hyderabad,2024-05-18,17.385,78.4867,Open,,373,Open
+829,Travis faced an assault incident around Ferguson Knolls.,Ahmedabad,2024-07-14,23.0225,72.5714,Closed,2024-07-29,15,Closed
+830,Tyler suffered a wallet theft at Kevin Meadow.,Bangalore,2024-05-28,12.9716,77.5946,Open,,363,Open
+831,Whitney saw a group vandalizing vehicles near Alexis Trail.,Jaipur,2024-11-28,26.9124,75.7873,Open,,179,Open
+832,Scott reported cyber fraud involving Roberts Ville.,Jaipur,2024-11-15,26.9124,75.7873,Open,,192,Open
+833,Joseph had their phone snatched on Gonzales Shores.,Ahmedabad,2024-08-12,23.0225,72.5714,Open,,287,Open
+834,Rachel faced an assault incident around Bailey Field.,Hyderabad,2024-09-27,17.385,78.4867,Open,,241,Open
+835,Brian suffered a wallet theft at Reynolds Squares.,Ahmedabad,2025-04-17,23.0225,72.5714,Open,,39,Open
+836,Annette was duped by a fake agent in Brown Dam.,Bangalore,2025-02-09,12.9716,77.5946,Open,,106,Open
+837,Barbara saw a group vandalizing vehicles near Vega Isle.,Kolkata,2025-01-07,22.5726,88.3639,Closed,2025-02-20,44,Closed
+838,Robert was attacked with a knife at Velasquez Knolls.,Mumbai,2024-06-25,19.076,72.8777,Open,,335,Open
+839,Jennifer faced an assault incident around Daniel Crest.,Jaipur,2025-03-21,26.9124,75.7873,Closed,2025-05-09,49,Closed
+840,Mary reported cyber fraud involving Moss Circle.,Nagpur,2024-12-02,21.1458,79.0882,Closed,2025-02-15,75,Closed
+841,Wanda suffered a wallet theft at Williams Hollow.,Delhi,2024-12-29,28.6139,77.209,Open,,148,Open
+842,James saw a group vandalizing vehicles near Dennis Mountain.,Hyderabad,2025-03-30,17.385,78.4867,Closed,2025-05-30,61,Closed
+843,Megan saw a group vandalizing vehicles near Cook Trail.,Pune,2024-09-06,18.5204,73.8567,Open,,262,Open
+844,Lauren reported cyber fraud involving Jeffrey Extension.,Pune,2024-08-02,18.5204,73.8567,Closed,2024-10-08,67,Closed
+845,Thomas was attacked with a knife at John Trafficway.,Pune,2024-07-30,18.5204,73.8567,Open,,300,Open
+846,Cynthia suffered a wallet theft at Stewart Haven.,Bangalore,2025-04-12,12.9716,77.5946,Open,,44,Open
+847,Sandra was attacked with a knife at Kimberly Stravenue.,Kolkata,2024-12-27,22.5726,88.3639,Open,,150,Open
+848,Kristen reported a theft in Hartman Crest.,Mumbai,2024-08-21,19.076,72.8777,Closed,2024-08-27,6,Closed
+849,Kathleen suffered a wallet theft at Martin Ridge.,Jaipur,2025-02-14,26.9124,75.7873,Closed,2025-02-23,9,Closed
+850,Matthew was robbed at gunpoint near William Ramp.,Hyderabad,2024-07-22,17.385,78.4867,Closed,2024-07-28,6,Closed
+851,Nicole was robbed at gunpoint near Richard Spring.,Mumbai,2024-08-20,19.076,72.8777,Open,,279,Open
+852,Tyler saw a group vandalizing vehicles near Green Rapids.,Mumbai,2024-12-19,19.076,72.8777,Closed,2025-03-02,73,Closed
+853,Aaron had their phone snatched on Sanchez Summit.,Hyderabad,2024-08-04,17.385,78.4867,Open,,295,Open
+854,Gregory reported a theft in Smith Junctions.,Mumbai,2024-12-15,19.076,72.8777,Closed,2025-01-16,32,Closed
+855,Chris had their phone snatched on West Plains.,Hyderabad,2024-12-09,17.385,78.4867,Open,,168,Open
+856,Mary experienced a burglary at Love Port.,Delhi,2025-01-13,28.6139,77.209,Open,,133,Open
+857,Ricky experienced a burglary at Jason Curve.,Pune,2024-10-28,18.5204,73.8567,Open,,210,Open
+858,Valerie was attacked with a knife at Robbins Summit.,Nagpur,2024-05-13,21.1458,79.0882,Open,,378,Open
+859,Casey reported cyber fraud involving John Street.,Delhi,2025-01-07,28.6139,77.209,Closed,2025-02-17,41,Closed
+860,Deborah was attacked with a knife at Melissa Port.,Ahmedabad,2025-02-25,23.0225,72.5714,Open,,90,Open
+861,Daniel suffered a wallet theft at Smith Court.,Ahmedabad,2024-07-13,23.0225,72.5714,Closed,2024-09-27,76,Closed
+862,Michael was robbed at gunpoint near Lynch Vista.,Chennai,2024-10-23,13.0827,80.2707,Open,,215,Open
+863,Jared was robbed at gunpoint near Forbes Crescent.,Pune,2024-06-29,18.5204,73.8567,Closed,2024-07-07,8,Closed
+864,Bailey had their phone snatched on Gomez Stravenue.,Bangalore,2025-04-07,12.9716,77.5946,Open,,49,Open
+865,Vincent saw a group vandalizing vehicles near Sarah Mission.,Nagpur,2025-02-11,21.1458,79.0882,Open,,104,Open
+866,Alicia saw a group vandalizing vehicles near Stephen Ferry.,Chennai,2025-01-02,13.0827,80.2707,Closed,2025-03-15,72,Closed
+867,Carolyn reported a theft in Hill Field.,Mumbai,2024-09-30,19.076,72.8777,Open,,238,Open
+868,Joseph had their phone snatched on Wallace Throughway.,Bangalore,2024-07-15,12.9716,77.5946,Open,,315,Open
+869,Kevin reported a theft in Robin Meadow.,Bangalore,2024-11-20,12.9716,77.5946,Closed,2025-01-09,50,Closed
+870,Jennifer had their phone snatched on Pierce Pass.,Delhi,2024-05-11,28.6139,77.209,Closed,2024-07-12,62,Closed
+871,Madison faced an assault incident around Hanson Course.,Mumbai,2024-06-30,19.076,72.8777,Open,,330,Open
+872,John reported a theft in Patel Estate.,Ahmedabad,2024-06-18,23.0225,72.5714,Open,,342,Open
+873,Bradley suffered a wallet theft at Robinson Island.,Pune,2024-11-11,18.5204,73.8567,Closed,2025-02-03,84,Closed
+874,Richard saw a group vandalizing vehicles near Shaw Points.,Chennai,2025-01-31,13.0827,80.2707,Open,,115,Open
+875,Patrick saw a group vandalizing vehicles near Mary Street.,Delhi,2025-03-20,28.6139,77.209,Open,,67,Open
+876,Veronica had their phone snatched on Norris Groves.,Chennai,2025-04-02,13.0827,80.2707,Open,,54,Open
+877,Marissa reported cyber fraud involving Jones Isle.,Nagpur,2024-10-24,21.1458,79.0882,Closed,2024-12-25,62,Closed
+878,Christopher was robbed at gunpoint near Timothy Corner.,Mumbai,2024-10-14,19.076,72.8777,Closed,2024-10-21,7,Closed
+879,Jay experienced a burglary at Carla Underpass.,Chennai,2025-03-03,13.0827,80.2707,Open,,84,Open
+880,Neil faced an assault incident around Kathy Key.,Jaipur,2024-09-06,26.9124,75.7873,Open,,262,Open
+881,Christina was attacked with a knife at Murray Forks.,Mumbai,2024-11-19,19.076,72.8777,Open,,188,Open
+882,Donna saw a group vandalizing vehicles near Smith Junction.,Pune,2025-02-06,18.5204,73.8567,Closed,2025-04-22,75,Closed
+883,Joann reported a theft in Adkins Row.,Hyderabad,2025-01-07,17.385,78.4867,Open,,139,Open
+884,Mark saw a group vandalizing vehicles near Jeremiah Loop.,Kolkata,2024-09-20,22.5726,88.3639,Open,,248,Open
+885,Mark saw a group vandalizing vehicles near Farmer Groves.,Kolkata,2024-09-24,22.5726,88.3639,Closed,2024-12-17,84,Closed
+886,Erin was robbed at gunpoint near Frank Street.,Kolkata,2024-07-15,22.5726,88.3639,Open,,315,Open
+887,Joyce suffered a wallet theft at Boone Skyway.,Mumbai,2025-01-05,19.076,72.8777,Closed,2025-03-26,80,Closed
+888,Amanda was duped by a fake agent in Marissa Parkways.,Delhi,2024-09-12,28.6139,77.209,Open,,256,Open
+889,Emma reported cyber fraud involving Zhang Coves.,Hyderabad,2025-03-25,17.385,78.4867,Open,,62,Open
+890,Dylan experienced a burglary at Christopher Manors.,Delhi,2024-07-16,28.6139,77.209,Open,,314,Open
+891,Dave experienced a burglary at Jeremy Radial.,Pune,2024-10-01,18.5204,73.8567,Closed,2024-10-05,4,Closed
+892,Joshua reported a theft in Sampson Track.,Jaipur,2025-03-10,26.9124,75.7873,Closed,2025-03-16,6,Closed
+893,Austin experienced a burglary at Tammy Trafficway.,Chennai,2025-04-04,13.0827,80.2707,Closed,2025-06-01,58,Closed
+894,Robert was robbed at gunpoint near Ramirez Shoal.,Nagpur,2024-11-01,21.1458,79.0882,Open,,206,Open
+895,Barbara saw a group vandalizing vehicles near Christina Flat.,Hyderabad,2024-11-24,17.385,78.4867,Closed,2024-12-16,22,Closed
+896,Mark was attacked with a knife at Bradley Shores.,Hyderabad,2024-11-17,17.385,78.4867,Open,,190,Open
+897,Jeffrey suffered a wallet theft at Jessica Avenue.,Ahmedabad,2024-10-06,23.0225,72.5714,Open,,232,Open
+898,Robert was attacked with a knife at Deanna Motorway.,Nagpur,2024-09-06,21.1458,79.0882,Closed,2024-10-02,26,Closed
+899,Heidi suffered a wallet theft at White Square.,Pune,2024-08-09,18.5204,73.8567,Open,,290,Open
+900,Alfred reported cyber fraud involving Steven Dam.,Delhi,2024-07-29,28.6139,77.209,Open,,301,Open
+901,Timothy was robbed at gunpoint near Kristy Forks.,Jaipur,2025-02-13,26.9124,75.7873,Open,,102,Open
+902,Brittany was robbed at gunpoint near Moss Loop.,Jaipur,2024-11-27,26.9124,75.7873,Open,,180,Open
+903,David reported cyber fraud involving Carla Orchard.,Hyderabad,2024-06-26,17.385,78.4867,Open,,334,Open
+904,Willie was duped by a fake agent in Edward Tunnel.,Kolkata,2024-12-17,22.5726,88.3639,Closed,2024-12-20,3,Closed
+905,Amanda suffered a wallet theft at Davis Ridge.,Kolkata,2024-08-28,22.5726,88.3639,Open,,271,Open
+906,Benjamin was robbed at gunpoint near Mcbride Shoals.,Bangalore,2024-05-01,12.9716,77.5946,Closed,2024-06-11,41,Closed
+907,Stephen reported cyber fraud involving Michael Center.,Jaipur,2024-06-12,26.9124,75.7873,Closed,2024-08-11,60,Closed
+908,Colleen was robbed at gunpoint near Nancy Lock.,Hyderabad,2024-11-06,17.385,78.4867,Open,,201,Open
+909,Jennifer reported cyber fraud involving Jeffrey Shoal.,Hyderabad,2024-07-19,17.385,78.4867,Open,,311,Open
+910,April experienced a burglary at Mccoy Turnpike.,Pune,2024-09-04,18.5204,73.8567,Open,,264,Open
+911,John was duped by a fake agent in Corey Manor.,Mumbai,2025-04-04,19.076,72.8777,Closed,2025-04-18,14,Closed
+912,Sonia was duped by a fake agent in Gregory Fall.,Ahmedabad,2025-04-11,23.0225,72.5714,Open,,45,Open
+913,Michael was attacked with a knife at Fuller Stream.,Hyderabad,2025-01-17,17.385,78.4867,Closed,2025-04-02,75,Closed
+914,Tiffany suffered a wallet theft at Jessica Pass.,Ahmedabad,2024-11-26,23.0225,72.5714,Open,,181,Open
+915,Toni saw a group vandalizing vehicles near Tracey Neck.,Hyderabad,2024-10-11,17.385,78.4867,Closed,2025-01-01,82,Closed
+916,Kimberly reported a theft in Wright Highway.,Bangalore,2025-02-13,12.9716,77.5946,Open,,102,Open
+917,Christopher reported a theft in Lambert Run.,Mumbai,2024-05-05,19.076,72.8777,Open,,386,Open
+918,Roy faced an assault incident around Erica Mountains.,Mumbai,2025-01-20,19.076,72.8777,Closed,2025-02-01,12,Closed
+919,Troy saw a group vandalizing vehicles near Jay Forges.,Nagpur,2024-05-24,21.1458,79.0882,Closed,2024-08-19,87,Closed
+920,James experienced a burglary at Mcclure Pine.,Bangalore,2024-08-06,12.9716,77.5946,Open,,293,Open
+921,Nancy reported a theft in Nicholas Drives.,Pune,2024-08-18,18.5204,73.8567,Closed,2024-08-30,12,Closed
+922,Edward reported cyber fraud involving Mccullough Island.,Hyderabad,2024-10-17,17.385,78.4867,Open,,221,Open
+923,Cathy suffered a wallet theft at Brown Squares.,Bangalore,2024-05-15,12.9716,77.5946,Closed,2024-05-28,13,Closed
+924,Mark was duped by a fake agent in Johnson Fords.,Chennai,2025-02-26,13.0827,80.2707,Closed,2025-03-23,25,Closed
+925,Raven suffered a wallet theft at Murphy Rapids.,Nagpur,2024-09-09,21.1458,79.0882,Open,,259,Open
+926,Tammy suffered a wallet theft at Brian Freeway.,Hyderabad,2024-05-02,17.385,78.4867,Open,,389,Open
+927,Felicia experienced a burglary at Diaz Brook.,Delhi,2024-10-15,28.6139,77.209,Open,,223,Open
+928,Thomas was duped by a fake agent in Crosby Mill.,Chennai,2025-04-16,13.0827,80.2707,Closed,2025-05-31,45,Closed
+929,Sonia was robbed at gunpoint near Laura Drive.,Bangalore,2025-03-26,12.9716,77.5946,Closed,2025-04-14,19,Closed
+930,Adam was duped by a fake agent in May Station.,Pune,2024-09-01,18.5204,73.8567,Open,,267,Open
+931,Christine saw a group vandalizing vehicles near Wayne Flats.,Hyderabad,2024-09-15,17.385,78.4867,Open,,253,Open
+932,Denise was robbed at gunpoint near Stewart Greens.,Nagpur,2024-09-13,21.1458,79.0882,Closed,2024-11-07,55,Closed
+933,Madeline faced an assault incident around Payne Burg.,Nagpur,2024-12-17,21.1458,79.0882,Closed,2025-01-31,45,Closed
+934,Brittany was robbed at gunpoint near Cardenas Pine.,Ahmedabad,2024-06-14,23.0225,72.5714,Closed,2024-06-22,8,Closed
+935,Kenneth reported a theft in Sullivan Islands.,Nagpur,2025-01-17,21.1458,79.0882,Open,,129,Open
+936,Lindsey experienced a burglary at Ortiz Hill.,Jaipur,2025-03-01,26.9124,75.7873,Open,,86,Open
+937,Kevin was duped by a fake agent in Chelsea Drive.,Hyderabad,2025-03-20,17.385,78.4867,Open,,67,Open
+938,William was robbed at gunpoint near Hernandez Green.,Chennai,2025-02-02,13.0827,80.2707,Closed,2025-03-27,53,Closed
+939,Edward was attacked with a knife at Bradley Roads.,Chennai,2025-02-04,13.0827,80.2707,Open,,111,Open
+940,David experienced a burglary at Keith Plains.,Ahmedabad,2025-03-28,23.0225,72.5714,Closed,2025-05-22,55,Closed
+941,John suffered a wallet theft at Lewis Mountain.,Hyderabad,2024-09-14,17.385,78.4867,Open,,254,Open
+942,Jennifer faced an assault incident around Rose Points.,Pune,2025-03-26,18.5204,73.8567,Closed,2025-04-27,32,Closed
+943,Tracy saw a group vandalizing vehicles near Bennett Prairie.,Nagpur,2024-05-09,21.1458,79.0882,Closed,2024-06-29,51,Closed
+944,Bonnie was duped by a fake agent in Sara Heights.,Hyderabad,2024-06-27,17.385,78.4867,Closed,2024-08-10,44,Closed
+945,Brenda reported cyber fraud involving Yesenia Canyon.,Hyderabad,2024-09-11,17.385,78.4867,Open,,257,Open
+946,Bethany reported a theft in Cindy Field.,Jaipur,2025-02-02,26.9124,75.7873,Open,,113,Open
+947,Erika was attacked with a knife at Gregory Forges.,Delhi,2024-11-29,28.6139,77.209,Open,,178,Open
+948,Lee saw a group vandalizing vehicles near Flowers Pine.,Ahmedabad,2024-11-07,23.0225,72.5714,Closed,2025-01-28,82,Closed
+949,Anthony saw a group vandalizing vehicles near Weber Plaza.,Mumbai,2025-03-22,19.076,72.8777,Closed,2025-05-31,70,Closed
+950,Phyllis reported cyber fraud involving Reed Station.,Pune,2024-09-08,18.5204,73.8567,Closed,2024-09-26,18,Closed
+951,Stanley suffered a wallet theft at Albert Locks.,Bangalore,2024-07-26,12.9716,77.5946,Closed,2024-10-17,83,Closed
+952,Rebecca faced an assault incident around Amanda Valley.,Jaipur,2024-07-03,26.9124,75.7873,Closed,2024-07-25,22,Closed
+953,Megan suffered a wallet theft at Jared Trafficway.,Bangalore,2025-01-03,12.9716,77.5946,Open,,143,Open
+954,Matthew reported a theft in Anderson Loaf.,Jaipur,2025-03-28,26.9124,75.7873,Closed,2025-05-04,37,Closed
+955,Joseph reported a theft in Bonilla Union.,Nagpur,2024-12-22,21.1458,79.0882,Open,,155,Open
+956,Marie was attacked with a knife at Brian Landing.,Ahmedabad,2024-10-13,23.0225,72.5714,Open,,225,Open
+957,Andrew reported a theft in Madden Spring.,Ahmedabad,2025-01-11,23.0225,72.5714,Closed,2025-03-08,56,Closed
+958,Mitchell experienced a burglary at Brian Ports.,Hyderabad,2024-09-12,17.385,78.4867,Open,,256,Open
+959,Daniel saw a group vandalizing vehicles near George Lights.,Pune,2024-05-18,18.5204,73.8567,Open,,373,Open
+960,Stephen reported cyber fraud involving Lori Cliff.,Kolkata,2024-09-27,22.5726,88.3639,Closed,2024-11-25,59,Closed
+961,Nancy was attacked with a knife at Durham Courts.,Bangalore,2024-06-21,12.9716,77.5946,Open,,339,Open
+962,Danny experienced a burglary at Banks Stravenue.,Nagpur,2025-02-09,21.1458,79.0882,Closed,2025-02-12,3,Closed
+963,Tanya had their phone snatched on Perez Key.,Kolkata,2024-10-29,22.5726,88.3639,Open,,209,Open
+964,Stephen had their phone snatched on Leonard Curve.,Pune,2024-08-03,18.5204,73.8567,Open,,296,Open
+965,Jesse had their phone snatched on Trevor Shores.,Nagpur,2024-06-11,21.1458,79.0882,Open,,349,Open
+966,Paul was robbed at gunpoint near Small Garden.,Ahmedabad,2024-05-03,23.0225,72.5714,Open,,388,Open
+967,Alexandra saw a group vandalizing vehicles near Munoz Corner.,Hyderabad,2024-05-21,17.385,78.4867,Closed,2024-06-18,28,Closed
+968,Billy experienced a burglary at Patrick Groves.,Chennai,2024-10-14,13.0827,80.2707,Open,,224,Open
+969,Kyle saw a group vandalizing vehicles near Sheila Springs.,Ahmedabad,2025-02-05,23.0225,72.5714,Closed,2025-04-20,74,Closed
+970,Matthew faced an assault incident around Esparza Estate.,Nagpur,2024-07-08,21.1458,79.0882,Open,,322,Open
+971,Madison reported a theft in Morgan Island.,Pune,2025-02-27,18.5204,73.8567,Closed,2025-04-03,35,Closed
+972,Nicholas was duped by a fake agent in Downs Lock.,Bangalore,2024-12-02,12.9716,77.5946,Closed,2025-02-01,61,Closed
+973,Nancy saw a group vandalizing vehicles near Charles Fork.,Ahmedabad,2024-12-21,23.0225,72.5714,Closed,2025-02-13,54,Closed
+974,Henry was duped by a fake agent in Campbell Cliffs.,Mumbai,2025-02-03,19.076,72.8777,Open,,112,Open
+975,Leslie reported a theft in Joseph Port.,Chennai,2025-03-16,13.0827,80.2707,Open,,71,Open
+976,Warren experienced a burglary at Joanna Valley.,Nagpur,2024-12-30,21.1458,79.0882,Open,,147,Open
+977,Jacob suffered a wallet theft at Wilson Forks.,Pune,2024-11-08,18.5204,73.8567,Closed,2025-01-10,63,Closed
+978,Dennis saw a group vandalizing vehicles near Patricia Parkways.,Ahmedabad,2025-02-16,23.0225,72.5714,Open,,99,Open
+979,Erika was attacked with a knife at Paul Inlet.,Hyderabad,2024-08-12,17.385,78.4867,Open,,287,Open
+980,Laura faced an assault incident around Smith Ports.,Kolkata,2024-07-14,22.5726,88.3639,Closed,2024-10-01,79,Closed
+981,Daniel was attacked with a knife at Trevor Cape.,Nagpur,2025-03-27,21.1458,79.0882,Open,,60,Open
+982,Mary saw a group vandalizing vehicles near Jack Keys.,Mumbai,2024-08-15,19.076,72.8777,Closed,2024-08-22,7,Closed
+983,Stephanie reported a theft in Davis Village.,Delhi,2024-12-19,28.6139,77.209,Open,,158,Open
+984,Monica was attacked with a knife at Rogers Ports.,Kolkata,2024-09-20,22.5726,88.3639,Open,,248,Open
+985,Tom was attacked with a knife at Luna Walks.,Bangalore,2025-01-06,12.9716,77.5946,Closed,2025-03-23,76,Closed
+986,David experienced a burglary at Hannah Drives.,Nagpur,2025-02-04,21.1458,79.0882,Open,,111,Open
+987,Kristen experienced a burglary at Kramer Parkway.,Jaipur,2025-03-03,26.9124,75.7873,Closed,2025-04-21,49,Closed
+988,Jamie reported cyber fraud involving Stephanie Trail.,Kolkata,2024-08-28,22.5726,88.3639,Open,,271,Open
+989,Olivia reported cyber fraud involving Mcbride Overpass.,Pune,2025-03-03,18.5204,73.8567,Open,,84,Open
+990,Larry saw a group vandalizing vehicles near Ayala Fall.,Jaipur,2024-12-11,26.9124,75.7873,Closed,2025-03-06,85,Closed
+991,Jay was attacked with a knife at Chang Ridge.,Bangalore,2025-02-22,12.9716,77.5946,Closed,2025-03-25,31,Closed
+992,Peter faced an assault incident around James Tunnel.,Bangalore,2024-11-06,12.9716,77.5946,Closed,2025-01-03,58,Closed
+993,Brandi reported a theft in Heather Road.,Kolkata,2025-03-08,22.5726,88.3639,Open,,79,Open
+994,Lori was attacked with a knife at Macias Grove.,Kolkata,2024-08-02,22.5726,88.3639,Closed,2024-10-02,61,Closed
+995,Justin faced an assault incident around Barnes Crescent.,Chennai,2024-05-27,13.0827,80.2707,Open,,364,Open
+996,Amber was attacked with a knife at Hudson Corners.,Nagpur,2024-08-25,21.1458,79.0882,Open,,274,Open
+997,Carla faced an assault incident around Miller Lights.,Chennai,2025-04-29,13.0827,80.2707,Closed,2025-05-23,24,Closed
+998,Kenneth faced an assault incident around Jessica Field.,Hyderabad,2025-04-09,17.385,78.4867,Open,,47,Open
+999,Ian was robbed at gunpoint near Linda Lane.,Delhi,2024-06-28,28.6139,77.209,Closed,2024-07-18,20,Closed
+1000,Roger was robbed at gunpoint near Brenda Circle.,Pune,2024-09-19,18.5204,73.8567,Open,,249,Open
