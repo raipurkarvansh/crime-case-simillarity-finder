@@ -1,2 +1,4 @@
 folium
 streamlit_folium
+klearn.metrics.pairwise
+altair
