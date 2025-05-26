@@ -1,5 +1,6 @@
 folium
 streamlit_folium
+scikit-learn
 sklearn
 sklearn.metrics.pairwise
 altair
